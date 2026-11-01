@@ -1,0 +1,1057 @@
+,,,,,,
+,,,,,,
+,Tabla N°:,5.2 ,,,,
+,Nombre de la tabla:,"Tasa de crecimiento promedio anual 2010-2022, según parroquia de residencia",,,,
+,Fuente:,VIII Censo de Población y VII de Vivienda ,,,,
+,Elaboración:,Instituto Nacional de Estadística y Censos (INEC) - Componente de Metodología y Análisis – CPV 2022 ,,,,
+,,,,,,
+,,,,,,
+Índice,,,,,,
+,"Provincia, cantón y parroquia de residencia",,,Población 2010,Población 2022,Tasa de crecimiento promedio anual 2010_2022
+,,,,,,
+,Total Nacional,Total Nacional,Total Nacional,"14,459,077","16,938,986",1.32
+,Azuay,Cuenca,Cuenca,"334,015","361,524",0.66
+,Azuay,Cuenca,Baños,"16,962","21,797",2.09
+,Azuay,Cuenca,Cumbe,"5,501","6,455",1.33
+,Azuay,Cuenca,Chaucha,"1,296","1,721",2.36
+,Azuay,Cuenca,Checa,"2,736","3,204",1.32
+,Azuay,Cuenca,Chiquintad,"4,788","5,738",1.51
+,Azuay,Cuenca,Llacao,"5,345","7,468",2.79
+,Azuay,Cuenca,Molleturo,"7,080","6,882",-0.24
+,Azuay,Cuenca,Nulti,"4,342","6,707",3.62
+,Azuay,Cuenca,Octavio Cordero Palacios,"2,246","2,516",0.95
+,Azuay,Cuenca,Paccha,"6,476","8,497",2.26
+,Azuay,Cuenca,Quingeo,"7,436","7,318",-0.13
+,Azuay,Cuenca,Ricaurte,"19,503","26,919",2.68
+,Azuay,Cuenca,San Joaquín,"7,487","10,728",3.00
+,Azuay,Cuenca,Santa Ana,"5,338","7,027",2.29
+,Azuay,Cuenca,Sayausí,"8,462","10,352",1.68
+,Azuay,Cuenca,Sidcay,"4,021","5,039",1.88
+,Azuay,Cuenca,Sinincay,"15,846","26,725",4.35
+,Azuay,Cuenca,Tarqui,"10,462","14,144",2.51
+,Azuay,Cuenca,Turi,"8,943","13,901",3.67
+,Azuay,Cuenca,Valle,"24,178","34,785",3.03
+,Azuay,Cuenca,Victoria Del Portete,"5,224","6,654",2.02
+,Azuay,Girón,Girón,"8,406","8,441",0.03
+,Azuay,Girón,La Asunción,"2,924","2,683",-0.72
+,Azuay,Girón,San Gerardo,"1,092","1,058",-0.26
+,Azuay,Gualaceo,Gualaceo,"21,249","22,019",0.30
+,Azuay,Gualaceo,Daniel Córdova Toral,"1,701","1,552",-0.76
+,Azuay,Gualaceo,Jadán,"4,269","4,581",0.59
+,Azuay,Gualaceo,Mariano Moreno,"2,606","2,513",-0.30
+,Azuay,Gualaceo,Remigio Crespo Toral,"1,403","1,380",-0.14
+,Azuay,Gualaceo,San Juan,"5,282","4,696",-0.98
+,Azuay,Gualaceo,Zhidmad,"2,706","3,045",0.98
+,Azuay,Gualaceo,Luis Cordero Vega,"2,028","2,670",2.29
+,Azuay,Gualaceo,Simón Bolívar,"1,088",732,-3.30
+,Azuay,Nabón,Nabón,"9,307","9,097",-0.19
+,Azuay,Nabón,Cochapata,"2,961","2,981",0.06
+,Azuay,Nabón,El Progreso,"1,969","1,388",-2.91
+,Azuay,Nabón,Las Nieves,"1,247","1,310",0.41
+,Azuay,Paute,Paute,"9,826","11,497",1.31
+,Azuay,Paute,Bulán,"2,173","1,911",-1.07
+,Azuay,Paute,Chicán,"3,530","3,394",-0.33
+,Azuay,Paute,El Cabo,"3,295","3,366",0.18
+,Azuay,Paute,Guarainag,831,701,-1.42
+,Azuay,Paute,San Cristóbal,"2,377","2,819",1.42
+,Azuay,Paute,Tomebamba,"1,326","1,315",-0.07
+,Azuay,Paute,Dug Dug,"1,894","1,779",-0.52
+,Azuay,Pucará,Pucará,"8,234","8,001",-0.24
+,Azuay,Pucará,San Rafael De Sharug,"1,823","1,692",-0.62
+,Azuay,San Fernando,San Fernando,"3,229","2,985",-0.65
+,Azuay,San Fernando,Chumblín,742,753,0.12
+,Azuay,Santa Isabel,Santa Isabel,"11,491","10,410",-0.82
+,Azuay,Santa Isabel,Abdón Calderón,"4,549","4,228",-0.61
+,Azuay,Santa Isabel,El Carmen De Pijilí,"4,509","2,648",-4.43
+,Azuay,Santa Isabel,Shaglli,"2,166","1,849",-1.32
+,Azuay,Santa Isabel,San Salvador De Cañaribamba,,"1,618",
+,Azuay,Sígsig,Sígsig,"10,998","10,656",-0.26
+,Azuay,Sígsig,Cuchil,"1,630","1,638",0.04
+,Azuay,Sígsig,Jima,"2,790","2,778",-0.04
+,Azuay,Sígsig,Güel,"1,340","1,058",-1.97
+,Azuay,Sígsig,Ludo,"3,289","3,429",0.35
+,Azuay,Sígsig,San Bartolomé,"4,021","3,368",-1.48
+,Azuay,Sígsig,San José De Raranga,"2,333","2,065",-1.02
+,Azuay,Oña,San Felipe De Oña,"2,385","2,456",0.24
+,Azuay,Oña,Susudel,"1,161",966,-1.53
+,Azuay,Chordeleg,Chordeleg,"6,764","6,907",0.17
+,Azuay,Chordeleg,Principal,"1,298","1,158",-0.95
+,Azuay,Chordeleg,La Unión,"1,883","1,875",-0.04
+,Azuay,Chordeleg,Luis Galarza Orellana,"1,497","1,237",-1.59
+,Azuay,Chordeleg,San Martín De Puzhio,"1,066","1,020",-0.37
+,Azuay,El Pan,El Pan,"1,174","1,085",-0.66
+,Azuay,El Pan,San Vicente,"1,805","1,691",-0.54
+,Azuay,Sevilla De Oro,Sevilla De Oro,"2,224","2,027",-0.77
+,Azuay,Sevilla De Oro,Amaluza,"1,203",896,-2.45
+,Azuay,Sevilla De Oro,Palmas,"2,166","1,690",-2.07
+,Azuay,Guachapala,Guachapala,"3,353","3,586",0.56
+,Azuay,Camilo Ponce Enríquez,Camilo Ponce Enríquez,"16,466","22,810",2.71
+,Bolívar,Guaranda,Guaranda,"55,728","62,611",0.97
+,Bolívar,Guaranda,Facundo Vela,"3,252","1,859",-4.66
+,Bolívar,Guaranda,Julio E. Moreno,"2,938","2,527",-1.26
+,Bolívar,Guaranda,Salinas,"5,458","5,880",0.62
+,Bolívar,Guaranda,San Lorenzo,"1,855","1,770",-0.39
+,Bolívar,Guaranda,San Simón,"4,194","4,288",0.18
+,Bolívar,Guaranda,Santa Fe,"1,749","1,896",0.67
+,Bolívar,Guaranda,Simiátug,"11,298","9,412",-1.52
+,Bolívar,Guaranda,San Luis De Pambil,"5,295","7,887",3.32
+,Bolívar,Chillanes,Chillanes,"13,310","13,855",0.33
+,Bolívar,Chillanes,San José Del Tambo,"4,121","5,947",3.06
+,Bolívar,Chimbo,San José De Chimbo,"5,793","6,020",0.32
+,Bolívar,Chimbo,Asunción,"2,833","2,745",-0.26
+,Bolívar,Chimbo,La Magdalena,"2,833","2,552",-0.87
+,Bolívar,Chimbo,San Sebastián,"1,052","1,176",0.93
+,Bolívar,Chimbo,Telimbela,"3,307","3,031",-0.73
+,Bolívar,Echeandía,Echeandía,"12,293","14,654",1.46
+,Bolívar,San Miguel,San Miguel,"12,382","14,040",1.05
+,Bolívar,San Miguel,Balsapamba,"2,798","2,470",-1.04
+,Bolívar,San Miguel,Bilován,"2,721","2,966",0.72
+,Bolívar,San Miguel,Régulo De Mora,947,"1,005",0.50
+,Bolívar,San Miguel,San Pablo,"5,492","5,180",-0.49
+,Bolívar,San Miguel,Santiago,"1,751","1,633",-0.58
+,Bolívar,San Miguel,San Vicente,"1,147","1,055",-0.70
+,Bolívar,Caluma,Caluma,"13,157","15,607",1.42
+,Bolívar,Las Naves,Las Naves,"6,038","7,012",1.25
+,Cañar,Azogues,Azogues,"38,158","41,249",0.65
+,Cañar,Azogues,Cojitambo,"3,694","3,612",-0.19
+,Cañar,Azogues,Guapán,"8,815","8,921",0.10
+,Cañar,Azogues,Javier Loyola,"6,751","8,591",2.01
+,Cañar,Azogues,Luis Cordero,"3,871","3,931",0.13
+,Cañar,Azogues,Pindilig,"2,086","1,837",-1.06
+,Cañar,Azogues,Rivera,"1,528","1,568",0.22
+,Cañar,Azogues,San Miguel,"3,559","3,615",0.13
+,Cañar,Azogues,Taday,"1,486","1,191",-1.84
+,Cañar,Biblián,Biblián,"13,678","12,379",-0.83
+,Cañar,Biblián,Nazón,"2,569","2,232",-1.17
+,Cañar,Biblián,San Francisco De Sageo,"1,726","1,471",-1.33
+,Cañar,Biblián,Turupamba,"1,070","1,078",0.06
+,Cañar,Biblián,Jerusalén,"1,744","1,692",-0.25
+,Cañar,Cañar,Cañar,"18,293","17,305",-0.46
+,Cañar,Cañar,Chontamarca,"4,148","3,191",-2.18
+,Cañar,Cañar,Chorocopte,"3,079","2,726",-1.01
+,Cañar,Cañar,General Morales,"3,388","2,300",-3.23
+,Cañar,Cañar,Gualleturo,"3,837","3,223",-1.45
+,Cañar,Cañar,Honorato Vásquez,"6,219","5,906",-0.43
+,Cañar,Cañar,Ingapirca,"8,333","6,964",-1.49
+,Cañar,Cañar,Juncal,"2,172","1,680",-2.14
+,Cañar,Cañar,San Antonio,"1,971","2,127",0.63
+,Cañar,Cañar,Zhud,"2,352","1,683",-2.79
+,Cañar,Cañar,Ventura,"1,269","1,357",0.56
+,Cañar,Cañar,Ducur,"4,228","3,688",-1.14
+,Cañar,La Troncal,La Troncal,"42,249","46,505",0.80
+,Cañar,La Troncal,Manuel J. Calle,"2,785","4,732",4.42
+,Cañar,La Troncal,Pancho Negro,"8,924","10,866",1.64
+,Cañar,El Tambo,El Tambo,"9,416","9,285",-0.12
+,Cañar,Déleg,Déleg,"4,422","4,273",-0.29
+,Cañar,Déleg,Solano,"1,589","1,773",0.91
+,Cañar,Suscal,Suscal,"5,024","4,627",-0.69
+,Carchi,Tulcán,Tulcán,"61,001","64,218",0.43
+,Carchi,Tulcán,El Carmelo,"2,739","2,162",-1.97
+,Carchi,Tulcán,Julio Andrade,"9,547","10,594",0.87
+,Carchi,Tulcán,Maldonado,"1,668","2,069",1.79
+,Carchi,Tulcán,Pioter,698,670,-0.34
+,Carchi,Tulcán,Tobar Donoso,858,"1,393",4.04
+,Carchi,Tulcán,Tufiño,"2,319","2,692",1.24
+,Carchi,Tulcán,Urbina,"2,202","1,770",-1.82
+,Carchi,Tulcán,El Chical,"3,362","4,403",2.25
+,Carchi,Tulcán,Santa Martha De Cuba,"2,316","2,404",0.31
+,Carchi,Bolívar,Bolívar,"5,236","5,873",0.96
+,Carchi,Bolívar,García Moreno,"1,363","1,364",0.01
+,Carchi,Bolívar,Los Andes,"2,250","2,536",1.00
+,Carchi,Bolívar,Monte Olivo,"1,658","1,699",0.20
+,Carchi,Bolívar,San Vicente De Pusir,"2,010","2,254",0.95
+,Carchi,Bolívar,San Rafael,"1,692","1,951",1.19
+,Carchi,Espejo,El Ángel,"6,315","7,075",0.95
+,Carchi,Espejo,El Goaltal,789,746,-0.47
+,Carchi,Espejo,La Libertad,"3,468","3,718",0.58
+,Carchi,Espejo,San Isidro,"2,693","2,983",0.85
+,Carchi,Mira,Mira ,"6,053","6,706",0.85
+,Carchi,Mira,Concepción,"2,769","2,680",-0.27
+,Carchi,Mira,Jijón Y Caamaño,"2,023","1,961",-0.26
+,Carchi,Mira,Juan Montalvo,"1,301","1,380",0.49
+,Carchi,Montúfar,San Gabriel,"20,921","20,576",-0.14
+,Carchi,Montúfar,Cristóbal Colón,"2,926","2,901",-0.07
+,Carchi,Montúfar,Chitán De Navarrete,618,641,0.30
+,Carchi,Montúfar,Fernández Salvador,"1,272","1,144",-0.88
+,Carchi,Montúfar,La Paz,"3,374","3,399",0.06
+,Carchi,Montúfar,Piartal,"1,123",929,-1.58
+,Carchi,San Pedro De Huaca,Huaca,"6,227","6,455",0.30
+,Carchi,San Pedro De Huaca,Mariscal Sucre,"1,371","1,482",0.65
+,Cotopaxi,Latacunga,Latacunga,"98,636","125,651",2.02
+,Cotopaxi,Latacunga,Aláquez,"5,501","7,958",3.08
+,Cotopaxi,Latacunga,Belisario Quevedo,"6,311","7,301",1.21
+,Cotopaxi,Latacunga,Guaytacama,"9,354","15,158",4.02
+,Cotopaxi,Latacunga,Joseguango Bajo,"2,797","2,469",-1.04
+,Cotopaxi,Latacunga,Mulaló,"8,085","9,101",0.99
+,Cotopaxi,Latacunga,Once De Noviembre,"1,987","3,233",4.05
+,Cotopaxi,Latacunga,Poaló,"5,702","4,960",-1.16
+,Cotopaxi,Latacunga,San Juan De Pastocalle,"11,457","14,884",2.18
+,Cotopaxi,Latacunga,Tanicuchí,"12,724","15,509",1.65
+,Cotopaxi,Latacunga,Toacaso,"7,638","11,037",3.07
+,Cotopaxi,La Maná,La Maná,"36,117","47,967",2.36
+,Cotopaxi,La Maná,Guasaganda,"3,920","3,866",-0.12
+,Cotopaxi,La Maná,Pucayacu,"2,072","1,960",-0.46
+,Cotopaxi,Pangua,El Corazón,"6,659","5,529",-1.55
+,Cotopaxi,Pangua,Moraspungo,"12,247","13,884",1.04
+,Cotopaxi,Pangua,Pinllopata,"1,034",692,-3.35
+,Cotopaxi,Pangua,Ramón Campaña,"1,996","1,762",-1.04
+,Cotopaxi,Pujilí,Pujilí,"33,487","42,614",2.01
+,Cotopaxi,Pujilí,Angamarca,"5,219","3,802",-2.64
+,Cotopaxi,Pujilí,Guangaje,"7,863","4,113",-5.40
+,Cotopaxi,Pujilí,La Victoria,"2,979","3,561",1.49
+,Cotopaxi,Pujilí,Pilaló,"2,650","1,916",-2.70
+,Cotopaxi,Pujilí,Tingo,"3,940","4,026",0.18
+,Cotopaxi,Pujilí,Zumbahua,"12,437","6,948",-4.85
+,Cotopaxi,Salcedo,San Miguel,"31,335","39,101",1.84
+,Cotopaxi,Salcedo,Antonio José Holguín,"2,643","3,431",2.17
+,Cotopaxi,Salcedo,Cusubamba,"7,102","5,949",-1.48
+,Cotopaxi,Salcedo,Mulalillo,"6,338","7,254",1.12
+,Cotopaxi,Salcedo,Mulliquindil,"7,178","7,632",0.51
+,Cotopaxi,Salcedo,Pansaleo,"3,428","4,126",1.54
+,Cotopaxi,Saquisilí,Saquisilí,"13,067","16,163",1.77
+,Cotopaxi,Saquisilí,Canchagua,"5,407","3,510",-3.60
+,Cotopaxi,Saquisilí,Chantilín,"1,033","2,129",6.02
+,Cotopaxi,Saquisilí,Cochapamba,"5,341","2,554",-6.15
+,Cotopaxi,Sigchos,Sigchos,"8,058","7,560",-0.53
+,Cotopaxi,Sigchos,Chugchillán,"7,809","6,075",-2.09
+,Cotopaxi,Sigchos,Isinlivi,"3,217","1,945",-4.19
+,Cotopaxi,Sigchos,Las Pampas,"1,936","1,850",-0.38
+,Cotopaxi,Sigchos,Palo Quemado,"1,009","1,030",0.17
+,Chimborazo,Riobamba,Riobamba,"158,379","188,891",1.47
+,Chimborazo,Riobamba,Cacha,"3,080","2,362",-2.21
+,Chimborazo,Riobamba,Calpi,"6,449","6,223",-0.30
+,Chimborazo,Riobamba,Cubijíes,"2,530","3,264",2.12
+,Chimborazo,Riobamba,Flores,"4,378","2,733",-3.92
+,Chimborazo,Riobamba,Licán,"7,701","11,726",3.50
+,Chimborazo,Riobamba,Licto,"7,864","6,778",-1.24
+,Chimborazo,Riobamba,Pungalá,"5,850","3,925",-3.32
+,Chimborazo,Riobamba,Punín,"6,041","4,682",-2.12
+,Chimborazo,Riobamba,Quimiag,"5,242","4,479",-1.31
+,Chimborazo,Riobamba,San Juan,"7,386","6,309",-1.31
+,Chimborazo,Riobamba,San Luis,"11,869","19,510",4.14
+,Chimborazo,Alausí,Alausí,"10,263","10,303",0.03
+,Chimborazo,Alausí,Achupallas,"10,559","8,117",-2.19
+,Chimborazo,Alausí,Guasuntos,"2,402","1,820",-2.31
+,Chimborazo,Alausí,Huigra,"2,353","1,748",-2.48
+,Chimborazo,Alausí,Multitud,"2,074","1,867",-0.88
+,Chimborazo,Alausí,Pistishi,346,257,-2.48
+,Chimborazo,Alausí,Pumallacta,904,588,-3.58
+,Chimborazo,Alausí,Sevilla,788,630,-1.86
+,Chimborazo,Alausí,Sibambe,"3,811","3,412",-0.92
+,Chimborazo,Alausí,Tixán,"10,548","8,533",-1.77
+,Chimborazo,Colta,Villa La Unión,"18,635","14,392",-2.15
+,Chimborazo,Colta,Cañi,923,711,-2.17
+,Chimborazo,Colta,Columbe,"15,644","9,132",-4.48
+,Chimborazo,Colta,Juan De Velasco,"3,924","3,045",-2.11
+,Chimborazo,Colta,Santiago De Quito,"5,298","3,188",-4.23
+,Chimborazo,Chambo,Chambo,"11,894","13,431",1.01
+,Chimborazo,Chunchi,Chunchi,"7,430","6,828",-0.70
+,Chimborazo,Chunchi,Capzol,898,684,-2.27
+,Chimborazo,Chunchi,Compud,881,724,-1.63
+,Chimborazo,Chunchi,Gonzol,"1,716","1,083",-3.83
+,Chimborazo,Chunchi,Llagos,"1,776","1,316",-2.50
+,Chimborazo,Guamote,Guamote,"24,633","19,382",-2.00
+,Chimborazo,Guamote,Cebadas,"8,115","6,414",-1.96
+,Chimborazo,Guamote,Palmira,"12,344","9,973",-1.78
+,Chimborazo,Guano,Guano,"16,580","22,764",2.64
+,Chimborazo,Guano,Guanando,349,224,-3.69
+,Chimborazo,Guano,Ilapo,"1,663","1,156",-3.03
+,Chimborazo,Guano,La Providencia,541,659,1.64
+,Chimborazo,Guano,San Andrés,"13,456","13,154",-0.19
+,Chimborazo,Guano,San Gerardo,"2,450","3,281",2.43
+,Chimborazo,Guano,San Isidro De Patulú,"4,714","4,472",-0.44
+,Chimborazo,Guano,San José Del Chazo,"1,031",872,-1.40
+,Chimborazo,Guano,Santa Fé De Galán,"1,617","1,471",-0.79
+,Chimborazo,Guano,Valparaiso,403,274,-3.21
+,Chimborazo,Pallatanga,Pallatanga,"11,365","11,796",0.31
+,Chimborazo,Penipe,Penipe,"2,089","2,400",1.16
+,Chimborazo,Penipe,El Altar,"1,240","1,294",0.36
+,Chimborazo,Penipe,Matus,964,786,-1.70
+,Chimborazo,Penipe,Puela,609,533,-1.11
+,Chimborazo,Penipe,San Antonio De Bayushig,"1,098","1,097",-0.01
+,Chimborazo,Penipe,La Candelaria,457,389,-1.34
+,Chimborazo,Penipe,Bilbao,196,249,1.99
+,Chimborazo,Cumandá,Cumandá,"12,810","16,602",2.16
+,El Oro,Machala,Machala,"241,078","301,771",1.87
+,El Oro,Machala,El Retiro,"4,050","4,538",0.95
+,El Oro,Arenillas,Arenillas,"20,965","23,919",1.10
+,El Oro,Arenillas,Chacras,"1,490","1,926",2.14
+,El Oro,Arenillas,Palmales,"3,182","3,385",0.52
+,El Oro,Arenillas,Carcabón,717,883,1.73
+,El Oro,Arenillas,La Cuca,,"2,253",
+,El Oro,Atahualpa,Paccha,"2,325","2,509",0.63
+,El Oro,Atahualpa,Ayapamba,"1,330","1,413",0.50
+,El Oro,Atahualpa,Cordoncillo,"1,002",985,-0.14
+,El Oro,Atahualpa,Milagro,471,435,-0.66
+,El Oro,Atahualpa,San José,374,468,1.87
+,El Oro,Atahualpa,San Juan De Cerro Azul,258,302,1.31
+,El Oro,Balsas,Balsas,"5,648","6,289",0.90
+,El Oro,Balsas,Bellamaría,"1,221","1,586",2.18
+,El Oro,Chilla,Chilla,"2,523","2,251",-0.95
+,El Oro,El Guabo,El Guabo,"30,414","35,467",1.28
+,El Oro,El Guabo,Barbones,"5,557","7,364",2.35
+,El Oro,El Guabo,La Iberia,"3,649","4,433",1.62
+,El Oro,El Guabo,Tendales,"4,994","5,388",0.63
+,El Oro,El Guabo,Río Bonito,"5,258","6,884",2.24
+,El Oro,Huaquillas,Huaquillas,"47,936","56,303",1.34
+,El Oro,Marcabelí,Marcabelí,"5,190","6,614",2.02
+,El Oro,Marcabelí,El Ingenio,260,256,-0.13
+,El Oro,Pasaje,Pasaje,"53,302","60,966",1.12
+,El Oro,Pasaje,Buenavista,"6,501","7,744",1.46
+,El Oro,Pasaje,Casacay,"2,396","2,887",1.55
+,El Oro,Pasaje,La Peaña,"3,579","4,025",0.98
+,El Oro,Pasaje,Progreso,"3,938","4,906",1.83
+,El Oro,Pasaje,Uzhcurrumi,918,904,-0.13
+,El Oro,Pasaje,Cañaquemada,"1,832","2,165",1.39
+,El Oro,Piñas,Piñas,"17,533","20,479",1.29
+,El Oro,Piñas,Capiro,"1,862","1,820",-0.19
+,El Oro,Piñas,La Bocana,"1,205","1,357",0.99
+,El Oro,Piñas,Moromoro,"1,361","1,264",-0.62
+,El Oro,Piñas,Piedras,533,517,-0.25
+,El Oro,Piñas,San Roque,854,"1,194",2.79
+,El Oro,Piñas,Saracay,"2,463","2,775",0.99
+,El Oro,Portovelo,Portovelo,"9,903","11,389",1.16
+,El Oro,Portovelo,Curtincapa,511,538,0.43
+,El Oro,Portovelo,Morales,654,692,0.47
+,El Oro,Portovelo,Salatí,"1,029",937,-0.78
+,El Oro,Santa Rosa,Santa Rosa,"53,146","61,493",1.22
+,El Oro,Santa Rosa,Bellavista,"2,776","5,047",4.98
+,El Oro,Santa Rosa,Jambelí,"1,632","1,246",-2.25
+,El Oro,Santa Rosa,La Avanzada,"2,002","2,435",1.63
+,El Oro,Santa Rosa,San Antonio,"2,046","1,446",-2.89
+,El Oro,Santa Rosa,Torata,"1,931","2,174",0.99
+,El Oro,Santa Rosa,Victoria,"3,107","3,726",1.51
+,El Oro,Santa Rosa,Bellamaría,"2,221","2,732",1.72
+,El Oro,Zaruma,Zaruma,"10,701","11,592",0.67
+,El Oro,Zaruma,Abañín,"1,642","1,333",-1.74
+,El Oro,Zaruma,Arcapamba,992,970,-0.19
+,El Oro,Zaruma,Guanazán,"3,014","2,195",-2.64
+,El Oro,Zaruma,Guizhaguiña,"1,692","1,832",0.66
+,El Oro,Zaruma,Huertas,"1,980","2,310",1.28
+,El Oro,Zaruma,Malvas,"1,184",963,-1.72
+,El Oro,Zaruma,Muluncay Grande,825,817,-0.08
+,El Oro,Zaruma,Sinsao,"1,335","1,594",1.48
+,El Oro,Zaruma,Salvias,747,768,0.23
+,El Oro,Las Lajas,La Victoria,"2,593","3,287",1.98
+,El Oro,Las Lajas,La Libertad,752,871,1.22
+,El Oro,Las Lajas,El Paraíso,813,880,0.66
+,El Oro,Las Lajas,San Isidro,594,700,1.37
+,Esmeraldas,Esmeraldas,Esmeraldas,"162,052","170,529",0.42
+,Esmeraldas,Esmeraldas,Camarones,"2,696","3,949",3.18
+,Esmeraldas,Esmeraldas,Coronel Carlos Concha Torres,"2,345","2,760",1.36
+,Esmeraldas,Esmeraldas,Chinca,"4,430","5,109",1.19
+,Esmeraldas,Esmeraldas,Majua,"2,703","3,368",1.83
+,Esmeraldas,Esmeraldas,San Mateo,"5,546","7,975",3.03
+,Esmeraldas,Esmeraldas,Tabiazo,"2,667","2,789",0.37
+,Esmeraldas,Esmeraldas,Tachina,"3,951","6,439",4.07
+,Esmeraldas,Esmeraldas,Vuelta Larga,"3,444","8,930",7.94
+,Esmeraldas,Eloy Alfaro,Valdez,"7,037","5,848",-1.54
+,Esmeraldas,Eloy Alfaro,Anchayacu,"2,437","3,075",1.94
+,Esmeraldas,Eloy Alfaro,Atahualpa,"1,487","1,388",-0.57
+,Esmeraldas,Eloy Alfaro,Borbón,"7,827","9,079",1.24
+,Esmeraldas,Eloy Alfaro,La Tola,"4,076","2,949",-2.70
+,Esmeraldas,Eloy Alfaro,Luis Vargas Torres,367,535,3.14
+,Esmeraldas,Eloy Alfaro,Maldonado,"1,657","2,100",1.97
+,Esmeraldas,Eloy Alfaro,Pampanal De Bolívar,"1,085","1,363",1.90
+,Esmeraldas,Eloy Alfaro,San Francisco De Onzole,"1,559","1,838",1.37
+,Esmeraldas,Eloy Alfaro,Santo Domingo De Onzole,"1,727","3,577",6.07
+,Esmeraldas,Eloy Alfaro,Selva Alegre,"1,152","1,466",2.01
+,Esmeraldas,Eloy Alfaro,Telembí,"5,735","6,316",0.80
+,Esmeraldas,Eloy Alfaro,Colón Eloy Del María,"1,387","2,200",3.84
+,Esmeraldas,Eloy Alfaro,San José De Cayapas,"1,518","1,433",-0.48
+,Esmeraldas,Eloy Alfaro,Timbiré,"1,023","1,153",1.00
+,Esmeraldas,Eloy Alfaro,Santa Lucía De Las Peñas,,"1,985",
+,Esmeraldas,Muisne,Muisne,"9,199","8,788",-0.38
+,Esmeraldas,Muisne,Bolívar,"1,072","2,569",7.28
+,Esmeraldas,Muisne,Daule,"2,103","2,842",2.51
+,Esmeraldas,Muisne,Galera,"1,605","1,659",0.28
+,Esmeraldas,Muisne,Quingue,569,533,-0.54
+,Esmeraldas,Muisne,Sálima,"1,115","1,439",2.12
+,Esmeraldas,Muisne,San Francisco,"2,766","5,023",4.97
+,Esmeraldas,Muisne,San Gregorio,"5,923","7,864",2.36
+,Esmeraldas,Muisne,San José De Chamanga,"4,134","5,709",2.69
+,Esmeraldas,Quinindé,Rosa Zárate ,"67,323","55,722",-1.58
+,Esmeraldas,Quinindé,Cube,"7,467","7,872",0.44
+,Esmeraldas,Quinindé,Chura,"4,709","3,241",-3.11
+,Esmeraldas,Quinindé,Malimpia,"17,438","19,870",1.09
+,Esmeraldas,Quinindé,Viche,"5,215","5,975",1.13
+,Esmeraldas,Quinindé,La Unión,"20,110","34,161",4.41
+,Esmeraldas,San Lorenzo,San Lorenzo,"25,265","32,591",2.12
+,Esmeraldas,San Lorenzo,Alto Tambo,"1,895","1,867",-0.12
+,Esmeraldas,San Lorenzo,Ancón,"1,796","1,415",-1.99
+,Esmeraldas,San Lorenzo,Calderón,644,"1,176",5.02
+,Esmeraldas,San Lorenzo,Carondelet,"1,670","1,117",-3.35
+,Esmeraldas,San Lorenzo,5 De Junio,419,247,-4.40
+,Esmeraldas,San Lorenzo,Concepción,"2,338","1,980",-1.38
+,Esmeraldas,San Lorenzo,Mataje,"1,287","1,053",-1.67
+,Esmeraldas,San Lorenzo,San Javier De Cachaví,519,786,3.46
+,Esmeraldas,San Lorenzo,Santa Rita,"1,568","1,638",0.36
+,Esmeraldas,San Lorenzo,Tambillo,"1,641","1,369",-1.51
+,Esmeraldas,San Lorenzo,Tululbí,"2,086","2,641",1.97
+,Esmeraldas,San Lorenzo,Urbina,680,511,-2.38
+,Esmeraldas,Atacames,Atacames,"16,930","21,868",2.13
+,Esmeraldas,Atacames,La Unión,"2,252","3,358",3.33
+,Esmeraldas,Atacames,Súa,"3,406","4,412",2.16
+,Esmeraldas,Atacames,Tonchigüe,"7,786","8,300",0.53
+,Esmeraldas,Atacames,Tonsupa,"10,501","13,266",1.95
+,Esmeraldas,Rioverde,Rioverde,"5,298","7,124",2.47
+,Esmeraldas,Rioverde,Chontaduro,"3,123","4,156",2.38
+,Esmeraldas,Rioverde,Chumundé,"3,534","4,508",2.03
+,Esmeraldas,Rioverde,Lagarto,"5,550","5,670",0.18
+,Esmeraldas,Rioverde,Montalvo,"3,977","5,254",2.32
+,Esmeraldas,Rioverde,Rocafuerte,"5,529","6,173",0.92
+,Guayas,Guayaquil,Guayaquil,"2,290,927","2,665,392",1.26
+,Guayas,Guayaquil,Juan Gómez Rendón,"11,755","13,483",1.14
+,Guayas,Guayaquil,Morro,"4,925","6,502",2.31
+,Guayas,Guayaquil,Posorja,"24,054","33,709",2.81
+,Guayas,Guayaquil,Puná,"6,800","15,275",6.74
+,Guayas,Guayaquil,Tenguel,"11,817","12,042",0.16
+,Guayas,Alfredo Baquerizo Moreno (Juján),Alfredo Baquerizo Moreno (Juján),"24,887","25,526",0.21
+,Guayas,Balao,Balao,"20,266","25,655",1.96
+,Guayas,Balzar,Balzar,"53,865","57,829",0.59
+,Guayas,Colimes,Colimes,"17,369","20,339",1.31
+,Guayas,Colimes,San Jacinto,"5,834","5,912",0.11
+,Guayas,Daule,Daule,"87,216","183,399",6.19
+,Guayas,Daule,Juan Bautista Aguirre,"5,630","9,380",4.25
+,Guayas,Daule,Laurel,"9,452","10,558",0.92
+,Guayas,Daule,Limonal,"8,624","9,414",0.73
+,Guayas,Daule,Los Lojas,"8,797","9,695",0.81
+,Guayas,Durán,Eloy Alfaro,"233,111","303,910",2.21
+,Guayas,El Empalme,Velasco Ibarra,"49,203","50,951",0.29
+,Guayas,El Empalme,Guayas,"16,125","18,735",1.25
+,Guayas,El Empalme,El Rosario,"9,093","10,081",0.86
+,Guayas,El Triunfo,El Triunfo,"50,732","60,541",1.47
+,Guayas,Milagro,Milagro,"145,484","173,407",1.46
+,Guayas,Milagro,Chobo,"5,278","3,761",-2.82
+,Guayas,Milagro,Mariscal Sucre,"5,375","6,072",1.02
+,Guayas,Milagro,Roberto Astudillo,"10,638","12,703",1.48
+,Guayas,Naranjal,Naranjal,"40,249","52,002",2.13
+,Guayas,Naranjal,Jesús María,"6,063","6,622",0.73
+,Guayas,Naranjal,San Carlos,"6,569","9,404",2.99
+,Guayas,Naranjal,Santa Rosa De Flandes,"5,207","6,196",1.45
+,Guayas,Naranjal,Taura,"10,399","9,467",-0.78
+,Guayas,Naranjito,Naranjito,"37,078","44,169",1.46
+,Guayas,Palestina,Palestina,"15,977","18,019",1.00
+,Guayas,Pedro Carbo,Pedro Carbo,"31,549","38,405",1.64
+,Guayas,Pedro Carbo,Valle De La Virgen,"4,965","5,751",1.22
+,Guayas,Pedro Carbo,Sabanilla,"6,841","8,021",1.33
+,Guayas,Samborondón,Samborondón,"50,633","81,854",4.00
+,Guayas,Samborondón,Tarifa,"16,212","16,686",0.24
+,Guayas,Santa Lucía,Santa Lucía,"38,850","43,700",0.98
+,Guayas,Salitre,El Salitre,"28,719","30,549",0.51
+,Guayas,Salitre,General Vernaza,"9,527","10,522",0.83
+,Guayas,Salitre,La Victoria,"6,472","7,309",1.01
+,Guayas,Salitre,Junquillal,"12,963","12,680",-0.18
+,Guayas,San Jacinto De Yaguachi,San Jacinto De Yaguachi,"26,806","32,914",1.71
+,Guayas,San Jacinto De Yaguachi,General Pedro J. Montero,"8,061","8,461",0.40
+,Guayas,San Jacinto De Yaguachi,Yaguachi Viejo,"11,935","13,140",0.80
+,Guayas,San Jacinto De Yaguachi,Virgen De Fátima,"13,804","18,184",2.30
+,Guayas,Playas,General Villamil,"41,446","58,768",2.91
+,Guayas,Simón Bolívar,Simón Bolívar,"14,761","16,448",0.90
+,Guayas,Simón Bolívar,Coronel Lorenzo De Garaycoa,"10,549","12,979",1.73
+,Guayas,Coronel Marcelino Maridueña,Coronel Marcelino Maridueña,"11,973","13,183",0.80
+,Guayas,Lomas De Sargentillo,Lomas De Sargentillo,"18,328","22,254",1.62
+,Guayas,Nobol,Narcisa De Jesús,"19,476","23,850",1.69
+,Guayas,General  Antonio Elizalde,General Antonio Elizalde,"10,618","11,810",0.89
+,Guayas,Isidro Ayora,Isidro Ayora,"10,811","14,305",2.33
+,Imbabura,Ibarra,San Miguel De Ibarra,"139,851","168,068",1.53
+,Imbabura,Ibarra,Ambuquí,"5,374","6,143",1.11
+,Imbabura,Ibarra,Angochagua,"3,260","3,561",0.74
+,Imbabura,Ibarra,Carolina,"2,685","3,258",1.61
+,Imbabura,Ibarra,La Esperanza,"7,326","8,681",1.41
+,Imbabura,Ibarra,Lita,"3,332","3,964",1.45
+,Imbabura,Ibarra,Salinas,"1,745","2,374",2.56
+,Imbabura,Ibarra,San Antonio,"17,272","21,420",1.79
+,Imbabura,Antonio Ante,Atuntaqui,"23,289","28,099",1.56
+,Imbabura,Antonio Ante,Imbaya,"1,304","1,610",1.76
+,Imbabura,Antonio Ante,San Francisco De Natabuela,"5,589","7,974",2.96
+,Imbabura,Antonio Ante,San José De Chaltura,"3,077","3,862",1.89
+,Imbabura,Antonio Ante,San Roque,"10,087","12,226",1.60
+,Imbabura,Cotacachi,Cotacachi,"17,149","21,414",1.85
+,Imbabura,Cotacachi,Apuela,"1,829","1,936",0.47
+,Imbabura,Cotacachi,García Moreno,"10,185","11,566",1.06
+,Imbabura,Cotacachi,Imantag,"4,920","5,476",0.89
+,Imbabura,Cotacachi,Peñaherrera,"1,586","1,780",0.96
+,Imbabura,Cotacachi,Plaza Gutiérrez,516,328,-3.77
+,Imbabura,Cotacachi,Quiroga,"6,121","8,245",2.48
+,Imbabura,Cotacachi,Seis De Julio De Cuellaje,"1,783","1,664",-0.58
+,Imbabura,Cotacachi,Vacas Galindo,717,592,-1.60
+,Imbabura,Otavalo,Otavalo,"52,598","55,534",0.45
+,Imbabura,Otavalo,Dr. Miguel Egas Cabezas,"4,881","6,914",2.90
+,Imbabura,Otavalo,Eugenio Espejo,"7,283","8,812",1.59
+,Imbabura,Otavalo,González Suárez,"5,612","7,434",2.34
+,Imbabura,Otavalo,Pataquí,256,221,-1.22
+,Imbabura,Otavalo,San José De Quichinche,"8,994","8,458",-0.51
+,Imbabura,Otavalo,San Juan De Ilumán,"8,484","9,299",0.76
+,Imbabura,Otavalo,San Pablo,"9,808","11,146",1.07
+,Imbabura,Otavalo,San Rafael,"5,399","5,184",-0.34
+,Imbabura,Otavalo,Selva Alegre,"1,521","1,301",-1.30
+,Imbabura,Pimampiro,Pimampiro,"9,016","10,076",0.93
+,Imbabura,Pimampiro,Chugá,"1,083","1,020",-0.50
+,Imbabura,Pimampiro,Mariano Acosta,"1,542","1,294",-1.46
+,Imbabura,Pimampiro,San Francisco De Sigsipamba,"1,266",976,-2.17
+,Imbabura,San Miguel De Urcuquí,Urcuquí,"5,195","6,551",1.93
+,Imbabura,San Miguel De Urcuquí,Cahuasquí,"1,801","1,871",0.32
+,Imbabura,San Miguel De Urcuquí,La Merced De Buenos Aires,"1,877","2,004",0.55
+,Imbabura,San Miguel De Urcuquí,Pablo Arenas,"2,106","2,339",0.87
+,Imbabura,San Miguel De Urcuquí,San Blas,"2,983","3,524",1.39
+,Imbabura,San Miguel De Urcuquí,Tumbabiro,"1,605","1,680",0.38
+,Loja,Loja,Loja,"181,854","214,296",1.37
+,Loja,Loja,Chantaco,"1,235","1,025",-1.55
+,Loja,Loja,Chuquiribamba,"2,493","2,114",-1.37
+,Loja,Loja,El Cisne,"1,609","1,639",0.15
+,Loja,Loja,Gualel,"2,061","2,082",0.08
+,Loja,Loja,Jimbilla,"1,120","1,010",-0.86
+,Loja,Loja,Malacatos,"7,053","8,669",1.72
+,Loja,Loja,San Lucas,"4,646","4,686",0.07
+,Loja,Loja,San Pedro De Vilcabamba,"1,298","1,305",0.04
+,Loja,Loja,Santiago,"1,373","1,051",-2.23
+,Loja,Loja,Taquil,"3,728","3,720",-0.02
+,Loja,Loja,Vilcabamba,"4,781","5,516",1.19
+,Loja,Loja,Yangana,"1,495","1,413",-0.47
+,Loja,Loja,Quinara,"1,372","1,502",0.75
+,Loja,Calvas,Cariamanga,"21,346","19,551",-0.73
+,Loja,Calvas,Colaisaca,"1,889","1,430",-2.32
+,Loja,Calvas,El Lucero,"2,024","2,658",2.27
+,Loja,Calvas,Utuana,"1,342","1,016",-2.32
+,Loja,Calvas,Sanguillín,"1,671","1,387",-1.55
+,Loja,Catamayo,Catamayo,"23,276","28,127",1.58
+,Loja,Catamayo,El Tambo,"4,612","4,439",-0.32
+,Loja,Catamayo,Guayquichuma,365,293,-1.83
+,Loja,Catamayo,San Pedro De La Bendita,"1,561","1,924",1.74
+,Loja,Catamayo,Zambi,581,457,-2.00
+,Loja,Celica,Celica,"7,333","6,685",-0.77
+,Loja,Celica,Cruzpamba,"1,074","1,165",0.68
+,Loja,Celica,Pózul,"3,067","3,273",0.54
+,Loja,Celica,Sabanilla,"2,429","2,552",0.41
+,Loja,Celica,Teniente Maximiliano Rodríguez Loaiza,557,704,1.95
+,Loja,Chaguarpamba,Chaguarpamba,"3,565","3,466",-0.23
+,Loja,Chaguarpamba,Buenavista,"1,144","1,193",0.35
+,Loja,Chaguarpamba,El Rosario,483,382,-1.95
+,Loja,Chaguarpamba,Santa Rufina,"1,201","1,211",0.07
+,Loja,Chaguarpamba,Amarillos,650,605,-0.60
+,Loja,Espíndola,Amaluza,"3,551","4,142",1.28
+,Loja,Espíndola,Bellavista,"2,374","2,163",-0.78
+,Loja,Espíndola,Jimbura,"2,320","2,050",-1.03
+,Loja,Espíndola,Santa Teresita,"1,754","1,450",-1.59
+,Loja,Espíndola,27 De Abril,"2,090","1,865",-0.95
+,Loja,Espíndola,El Ingenio,"1,882","1,647",-1.11
+,Loja,Espíndola,El Airo,998,802,-1.82
+,Loja,Gonzanamá,Gonzanamá,"2,591","2,883",0.89
+,Loja,Gonzanamá,Changaimina,"2,755","2,402",-1.14
+,Loja,Gonzanamá,Nambacola,"4,462","4,257",-0.39
+,Loja,Gonzanamá,Purunuma,772,986,2.04
+,Loja,Gonzanamá,Sacapalca,"2,179","1,719",-1.98
+,Loja,Macará,Macará,"15,762","15,235",-0.28
+,Loja,Macará,Larama,"1,084",985,-0.80
+,Loja,Macará,La Victoria,"1,573","1,361",-1.21
+,Loja,Macará,Sabiango,643,634,-0.12
+,Loja,Paltas,Catacocha,"12,496","12,129",-0.25
+,Loja,Paltas,Cangonamá,"1,261",991,-2.01
+,Loja,Paltas,Guachanamá,"2,589","2,406",-0.61
+,Loja,Paltas,Lauro Guerrero,"1,597","1,680",0.42
+,Loja,Paltas,Orianga,"1,740","1,586",-0.77
+,Loja,Paltas,San Antonio,"1,103","1,077",-0.20
+,Loja,Paltas,Casanga,"1,790","1,735",-0.26
+,Loja,Paltas,Yamana,"1,247","1,237",-0.07
+,Loja,Puyango,Alamor,"8,413","8,987",0.55
+,Loja,Puyango,Ciano,"1,430","1,335",-0.57
+,Loja,Puyango,El Arenal,975,"1,157",1.43
+,Loja,Puyango,El Limo,"2,381","2,423",0.15
+,Loja,Puyango,Mercadillo,"1,205","1,308",0.68
+,Loja,Puyango,Vicentino,"1,269","1,047",-1.60
+,Loja,Saraguro,Saraguro,"9,099","9,679",0.51
+,Loja,Saraguro,El Paraíso De Celen,"2,729","2,244",-1.63
+,Loja,Saraguro,El Tablón,922,972,0.44
+,Loja,Saraguro,Lluzhapa,"1,696","1,558",-0.71
+,Loja,Saraguro,Manú,"2,645","2,142",-1.76
+,Loja,Saraguro,San Antonio De Qumbe,"1,147","1,110",-0.27
+,Loja,Saraguro,San Pablo De Tenta,"3,626","3,290",-0.81
+,Loja,Saraguro,San Sebastián De Yúluc,992,958,-0.29
+,Loja,Saraguro,Selva Alegre,"1,913","1,553",-1.74
+,Loja,Saraguro,Urdaneta,"3,821","4,091",0.57
+,Loja,Saraguro,Sumaypamba,"1,568","1,514",-0.29
+,Loja,Sozoranga,Sozoranga,"3,755","3,671",-0.19
+,Loja,Sozoranga,Nueva Fátima,907,816,-0.88
+,Loja,Sozoranga,Tacamoros,"2,800","2,483",-1.00
+,Loja,Zapotillo,Zapotillo,"4,254","5,851",2.66
+,Loja,Zapotillo,Mangahurco,"1,162",868,-2.43
+,Loja,Zapotillo,Garzareal,"1,775","1,913",0.62
+,Loja,Zapotillo,Limones,"1,413","1,685",1.47
+,Loja,Zapotillo,Paletillas,"2,607","2,574",-0.11
+,Loja,Zapotillo,Bolaspamba,"1,080","1,207",0.93
+,Loja,Zapotillo,Cazaderos,,473,
+,Loja,Pindal,Pindal,"5,676","4,393",-2.13
+,Loja,Pindal,Chaquinal,"1,090",995,-0.76
+,Loja,Pindal,12 De Diciembre,"1,890","2,060",0.72
+,Loja,Pindal,Milagros,,"2,961",
+,Loja,Quilanga,Quilanga,"2,754","2,559",-0.61
+,Loja,Quilanga,Fundochamba,346,293,-1.38
+,Loja,Quilanga,San Antonio De Las Aradas,"1,260","1,119",-0.99
+,Loja,Olmedo,Olmedo,"4,158","3,702",-0.97
+,Loja,Olmedo,La Tingue,683,462,-3.26
+,Los Ríos,Babahoyo,Babahoyo,"98,609","112,033",1.06
+,Los Ríos,Babahoyo,Caracol,"5,053","5,226",0.28
+,Los Ríos,Babahoyo,Febres Cordero,"17,440","19,012",0.72
+,Los Ríos,Babahoyo,Pimocha,"20,928","28,145",2.47
+,Los Ríos,Babahoyo,La Unión,"12,645","14,093",0.90
+,Los Ríos,Baba,Baba,"19,047","21,574",1.04
+,Los Ríos,Baba,Guare,"11,390","13,581",1.47
+,Los Ríos,Baba,Isla De Bejucal,"9,233","10,141",0.78
+,Los Ríos,Montalvo,Montalvo,"23,992","25,875",0.63
+,Los Ríos,Montalvo,La Esmeralda,,"2,479",
+,Los Ríos,Puebloviejo,Puebloviejo,"13,826","14,972",0.66
+,Los Ríos,Puebloviejo,Puerto Pechiche,"4,459","5,221",1.31
+,Los Ríos,Puebloviejo,San Juan,"18,164","20,768",1.12
+,Los Ríos,Quevedo,Quevedo,"158,877","187,103",1.36
+,Los Ríos,Quevedo,San Carlos,"9,926","12,037",1.61
+,Los Ríos,Quevedo,La Esperanza,"4,828","6,868",2.94
+,Los Ríos,Urdaneta,Catarama,"8,831","9,680",0.76
+,Los Ríos,Urdaneta,Ricaurte,"20,463","23,471",1.14
+,Los Ríos,Ventanas,Ventanas,"46,047","49,009",0.52
+,Los Ríos,Ventanas,Zapotal,"20,440","18,368",-0.89
+,Los Ríos,Ventanas,Chacarita,,"3,101",
+,Los Ríos,Ventanas,Los Ángeles,,"2,733",
+,Los Ríos,Vinces,Vinces,"55,766","63,527",1.09
+,Los Ríos,Vinces,Antonio Sotomayor,"16,202","17,382",0.59
+,Los Ríos,Palenque,Palenque,"22,329","24,838",0.89
+,Los Ríos,Buena Fe,San Jacinto De Buena Fe,"50,823","59,559",1.32
+,Los Ríos,Buena Fe,Patricia Pilar,"12,078","14,851",1.72
+,Los Ríos,Valencia,Valencia,"41,989","51,509",1.70
+,Los Ríos,Mocache,Mocache,"38,430","42,026",0.75
+,Los Ríos,Quinsaloma,Quinsaloma,"16,320","19,470",1.47
+,Manabí,Portoviejo,Portoviejo,"224,947","252,248",0.95
+,Manabí,Portoviejo,Abdón Calderón,"14,215","16,848",1.42
+,Manabí,Portoviejo,Alhajuela,"3,839","4,714",1.71
+,Manabí,Portoviejo,Crucita,"13,668","16,997",1.82
+,Manabí,Portoviejo,Pueblo Nuevo,"3,286","4,181",2.01
+,Manabí,Portoviejo,Riochico,"11,715","17,040",3.12
+,Manabí,Portoviejo,San Plácido,"7,719","8,180",0.48
+,Manabí,Portoviejo,Chirijos,"2,358","2,717",1.18
+,Manabí,Bolívar,Calceta,"33,339","34,702",0.33
+,Manabí,Bolívar,Membrillo,"3,568","3,573",0.01
+,Manabí,Bolívar,Quiroga,"3,314","3,552",0.58
+,Manabí,Chone,Chone,"75,745","76,247",0.06
+,Manabí,Chone,Boyacá,"4,517","4,447",-0.13
+,Manabí,Chone,Canuto,"10,466","11,134",0.52
+,Manabí,Chone,Convento,"6,527","6,369",-0.20
+,Manabí,Chone,Chibunga,"6,301","6,083",-0.29
+,Manabí,Chone,Eloy Alfaro,"7,888","6,566",-1.53
+,Manabí,Chone,Ricaurte,"7,695","7,838",0.15
+,Manabí,Chone,San Antonio,"7,975","9,482",1.44
+,Manabí,El Carmen,El Carmen,"98,093","84,141",-1.28
+,Manabí,El Carmen,Wilfrido Loor Moreira,"4,472","3,911",-1.12
+,Manabí,El Carmen,San Pedro De Suma,"6,604","7,252",0.78
+,Manabí,El Carmen,Santa María,,"13,668",
+,Manabí,El Carmen,El Paraíso La 14,,"11,964",
+,Manabí,Flavio Alfaro,Flavio Alfaro,"18,896","20,177",0.55
+,Manabí,Flavio Alfaro,San Francisco De Novillo,"2,693","2,707",0.04
+,Manabí,Flavio Alfaro,Zapallo,"3,679","3,531",-0.34
+,Manabí,Jipijapa,Jipijapa,"49,426","54,639",0.84
+,Manabí,Jipijapa,América,"3,162","3,418",0.65
+,Manabí,Jipijapa,El Anegado,"6,780","7,020",0.29
+,Manabí,Jipijapa,Julcuy,"2,157","1,816",-1.43
+,Manabí,Jipijapa,La Unión,"1,877","1,747",-0.60
+,Manabí,Jipijapa,Membrillal,"1,020",955,-0.55
+,Manabí,Jipijapa,Pedro Pablo Gómez,"3,590","4,067",1.04
+,Manabí,Jipijapa,Puerto Cayo,"3,378","4,455",2.31
+,Manabí,Junín,Junín,"19,029","22,324",1.33
+,Manabí,Manta,Manta,"220,660","261,871",1.43
+,Manabí,Manta,San Lorenzo,"2,650","5,444",6.00
+,Manabí,Manta,Santa Marianita,"2,651","3,830",3.06
+,Manabí,Montecristi,Montecristi,"66,596","96,858",3.12
+,Manabí,Montecristi,La Pila,"2,446","3,079",1.92
+,Manabí,Paján,Paján,"12,699","14,312",1.00
+,Manabí,Paján,Campozano,"8,519","8,736",0.21
+,Manabí,Paján,Cascol,"7,137","8,764",1.71
+,Manabí,Paján,Guale,"3,966","4,727",1.46
+,Manabí,Paján,Lascano,"5,176","5,340",0.26
+,Manabí,Pichincha,Pichincha,"17,693","17,293",-0.19
+,Manabí,Pichincha,Barraganete,"7,529","8,300",0.81
+,Manabí,Pichincha,San Sebastián,"5,257","4,787",-0.78
+,Manabí,Rocafuerte,Rocafuerte,"33,589","42,688",2.00
+,Manabí,Santa Ana,Santa Ana De Vuelta Larga,"22,612","24,506",0.67
+,Manabí,Santa Ana,Ayacucho,"7,437","7,934",0.54
+,Manabí,Santa Ana,Honorato Vásquez,"5,971","5,813",-0.22
+,Manabí,Santa Ana,La Unión,"6,525","7,200",0.82
+,Manabí,Santa Ana,San Pablo,"5,270","6,009",1.09
+,Manabí,Sucre,Bahía De Caráquez,"26,854","27,284",0.13
+,Manabí,Sucre,Charapotó,"19,560","23,361",1.48
+,Manabí,Sucre,San Isidro,"10,993","12,196",0.87
+,Manabí,Tosagua,Tosagua,"28,301","31,309",0.84
+,Manabí,Tosagua,Bachillero,"3,855","4,438",1.17
+,Manabí,Tosagua,Ángel Pedro Giler,"6,033","7,106",1.36
+,Manabí,24 De Mayo,Sucre,"13,490","15,645",1.23
+,Manabí,24 De Mayo,Bellavista,"4,915","5,693",1.22
+,Manabí,24 De Mayo,Noboa,"6,530","7,063",0.65
+,Manabí,24 De Mayo,Arquitecto Sixto Durán Ballén,"3,950","3,072",-2.09
+,Manabí,Pedernales,Pedernales,"33,881","43,049",1.99
+,Manabí,Pedernales,Cojimíes,"13,546","18,664",2.67
+,Manabí,Pedernales,Diez De Agosto,"5,271","6,140",1.27
+,Manabí,Pedernales,Atahualpa,"2,570","2,555",-0.05
+,Manabí,Olmedo,Olmedo,"9,911","10,090",0.15
+,Manabí,Puerto López,Puerto López,"10,849","13,489",1.81
+,Manabí,Puerto López,Machalilla,"4,933","6,303",2.04
+,Manabí,Puerto López,Salango,"4,433","5,838",2.29
+,Manabí,Jama,Jama,"23,196","16,588",-2.79
+,Manabí,Jaramijó,Jaramijó,"18,295","29,759",4.05
+,Manabí,San Vicente,San Vicente,"15,094","16,880",0.93
+,Manabí,San Vicente,Canoa,"6,780","8,117",1.50
+,Morona Santiago,Morona,Macas,"19,567","22,621",1.21
+,Morona Santiago,Morona,Alshi,385,399,0.30
+,Morona Santiago,Morona,General Proaño,"2,567","4,929",5.43
+,Morona Santiago,Morona,San Isidro,782,"1,221",3.71
+,Morona Santiago,Morona,Sevilla Don Bosco,"12,629","18,647",3.25
+,Morona Santiago,Morona,Sinaí,966,"1,034",0.57
+,Morona Santiago,Morona,Zuña,223,223,0.00
+,Morona Santiago,Morona,Cuchaentza,"1,877","2,813",3.37
+,Morona Santiago,Morona,Río Blanco,"1,979","3,048",3.60
+,Morona Santiago,Gualaquiza,Gualaquiza,"9,214","12,323",2.42
+,Morona Santiago,Gualaquiza,Amazonas,397,165,-7.31
+,Morona Santiago,Gualaquiza,Bermejos,227,209,-0.69
+,Morona Santiago,Gualaquiza,Bomboíza,"4,641","6,557",2.88
+,Morona Santiago,Gualaquiza,Chigüinda,557,551,-0.09
+,Morona Santiago,Gualaquiza,El Rosario,622,570,-0.73
+,Morona Santiago,Gualaquiza,Nueva Tarqui,504,663,2.28
+,Morona Santiago,Gualaquiza,San Miguel De Cuyes,189,125,-3.44
+,Morona Santiago,Gualaquiza,El Ideal,817,729,-0.95
+,Morona Santiago,Limón Indanza,General Leonidas Plaza Gutiérrez,"4,028","4,675",1.24
+,Morona Santiago,Limón Indanza,Indanza,"1,306","1,091",-1.50
+,Morona Santiago,Limón Indanza,San Antonio,"2,134","1,468",-3.12
+,Morona Santiago,Limón Indanza,San Miguel De Conchay,415,424,0.18
+,Morona Santiago,Limón Indanza,Santa Susana De Chiviaza,767,818,0.54
+,Morona Santiago,Limón Indanza,Yunganza,"1,032","1,126",0.73
+,Morona Santiago,Palora,Palora,"3,896","6,717",4.54
+,Morona Santiago,Palora,Arapicos,485,974,5.81
+,Morona Santiago,Palora,Cumandá,344,315,-0.73
+,Morona Santiago,Palora,Sangay,"1,143","2,515",6.57
+,Morona Santiago,Palora,16 De Agosto,967,"1,361",2.85
+,Morona Santiago,Santiago,Santiago De Méndez,"3,112","3,366",0.65
+,Morona Santiago,Santiago,Copal,461,443,-0.33
+,Morona Santiago,Santiago,Chupianza,464,663,2.97
+,Morona Santiago,Santiago,Patuca,"2,109","1,924",-0.76
+,Morona Santiago,Santiago,San Luis De El Acho,614,596,-0.25
+,Morona Santiago,Santiago,Tayuza,"1,515","1,606",0.49
+,Morona Santiago,Santiago,San Francisco De Chinimbimi,"1,080","1,157",0.57
+,Morona Santiago,Sucúa,Sucúa,"12,462","16,309",2.24
+,Morona Santiago,Sucúa,Asunción,"1,884","2,419",2.08
+,Morona Santiago,Sucúa,Huambi,"2,794","3,398",1.63
+,Morona Santiago,Sucúa,Santa Marianita De Jesús,891,"1,378",3.63
+,Morona Santiago,Huamboya,Huamboya,"2,579","4,083",3.83
+,Morona Santiago,Huamboya,Chiguaza,"5,905","6,747",1.11
+,Morona Santiago,San Juan Bosco,San Juan Bosco,"2,186","2,547",1.27
+,Morona Santiago,San Juan Bosco,Pan De Azúcar,250,218,-1.14
+,Morona Santiago,San Juan Bosco,San Carlos De Limón,770,911,1.40
+,Morona Santiago,San Juan Bosco,San Jacinto De Wakambeis,205,219,0.55
+,Morona Santiago,San Juan Bosco,Santiago De Pananza,475,477,0.03
+,Morona Santiago,Taisha,Taisha,"6,226","7,817",1.90
+,Morona Santiago,Taisha,Huasaga,"1,761","2,069",1.34
+,Morona Santiago,Taisha,Macuma,"3,813","7,360",5.48
+,Morona Santiago,Taisha,Tuutinentsa,"4,652","5,229",0.97
+,Morona Santiago,Taisha,Pumpuentsa,"2,066","4,225",5.96
+,Morona Santiago,Logroño,Logroño,"2,038","2,604",2.04
+,Morona Santiago,Logroño,Yaupi,"1,763","2,206",1.87
+,Morona Santiago,Logroño,Shimpis,"2,075","2,674",2.11
+,Morona Santiago,Pablo Sexto,Pablo Sexto,"1,760","2,267",2.11
+,Morona Santiago,Tiwintza,Santiago,"4,650","5,511",1.42
+,Morona Santiago,Tiwintza,San José De Morona,"2,435","3,774",3.65
+,Napo,Tena,Tena,"33,959","39,578",1.28
+,Napo,Tena,Ahuano,"5,461","7,476",2.62
+,Napo,Tena,Chontapunta,"6,546","8,721",2.39
+,Napo,Tena,Pano,"1,367","2,179",3.88
+,Napo,Tena,Puerto Misahuallí,"5,010","4,868",-0.24
+,Napo,Tena,Puerto Napo,"5,347","7,152",2.42
+,Napo,Tena,Tálag,"2,805","3,528",1.91
+,Napo,Tena,San Juan De Muyuna,,"7,314",
+,Napo,Archidona,Archidona,"11,787","15,316",2.18
+,Napo,Archidona,Cotundo,"8,207","6,879",-1.47
+,Napo,Archidona,San Pablo De Ushpayacu,"4,931","5,657",1.14
+,Napo,Archidona,Hatun Sumaku,,"2,636",
+,Napo,El Chaco,El Chaco,"4,815","5,624",1.29
+,Napo,El Chaco,Gonzalo Díaz De Pineda,532,519,-0.21
+,Napo,El Chaco,Linares,210,174,-1.57
+,Napo,El Chaco,Oyacachi,601,697,1.23
+,Napo,El Chaco,Santa Rosa,"1,225","1,653",2.50
+,Napo,El Chaco,Sardinas,511,585,1.13
+,Napo,Quijos,Baeza,"1,974","2,256",1.11
+,Napo,Quijos,Cosanga,499,471,-0.48
+,Napo,Quijos,Cuyuja,594,504,-1.37
+,Napo,Quijos,Papallacta,704,635,-0.86
+,Napo,Quijos,San Francisco De Borja,"2,116","2,474",1.30
+,Napo,Quijos,Sumaco,39,132,10.16
+,Napo,Carlos Julio Arosemena Tola,Carlos Julio Arosemena Tola,"3,621","4,647",2.08
+,Pastaza,Pastaza,Puyo,"36,810","39,473",0.58
+,Pastaza,Pastaza,Canelos,"2,084","2,696",2.14
+,Pastaza,Pastaza,Diez De Agosto,"1,133","1,402",1.77
+,Pastaza,Pastaza,Fátima,867,"1,645",5.33
+,Pastaza,Pastaza,Montalvo,"3,804","4,863",2.05
+,Pastaza,Pastaza,Pomona,221,284,2.09
+,Pastaza,Pastaza,Río Corrientes,252,457,4.96
+,Pastaza,Pastaza,Río Tigre,666,"1,055",3.83
+,Pastaza,Pastaza,Sarayacu,"2,520","4,072",4.00
+,Pastaza,Pastaza,Simón Bolívar,"5,658","7,689",2.55
+,Pastaza,Pastaza,Tarqui,"3,736","14,242",11.15
+,Pastaza,Pastaza,Teniente Hugo Ortiz,"1,051","1,187",1.01
+,Pastaza,Pastaza,Veracruz,"1,732","2,361",2.58
+,Pastaza,Pastaza,El Triunfo,"1,311","1,328",0.11
+,Pastaza,Mera,Mera,"1,524","1,909",1.88
+,Pastaza,Mera,Madre Tierra,"1,581","3,684",7.05
+,Pastaza,Mera,Shell,"8,460","9,494",0.96
+,Pastaza,Santa Clara,Santa Clara,"2,802","3,642",2.18
+,Pastaza,Santa Clara,San José,729,879,1.56
+,Pastaza,Arajuno,Arajuno,"3,837","5,690",3.28
+,Pastaza,Arajuno,Curaray,"2,700","3,863",2.98
+,Pichincha,Distrito Metropolitano De Quito,Quito,"1,627,330","1,776,364",0.73
+,Pichincha,Distrito Metropolitano De Quito,Alangasí,"23,999","34,655",3.06
+,Pichincha,Distrito Metropolitano De Quito,Amaguaña,"30,857","43,235",2.81
+,Pichincha,Distrito Metropolitano De Quito,Atahualpa,"1,879","1,446",-2.18
+,Pichincha,Distrito Metropolitano De Quito,Calacalí,"3,924","4,964",1.96
+,Pichincha,Distrito Metropolitano De Quito,Calderón,"150,781","250,877",4.24
+,Pichincha,Distrito Metropolitano De Quito,Conocoto,"81,253","127,815",3.77
+,Pichincha,Distrito Metropolitano De Quito,Cumbayá,"31,197","41,819",2.44
+,Pichincha,Distrito Metropolitano De Quito,Chavezpamba,812,579,-2.82
+,Pichincha,Distrito Metropolitano De Quito,Checa,"8,906","11,492",2.12
+,Pichincha,Distrito Metropolitano De Quito,El Quinche,"16,034","18,485",1.18
+,Pichincha,Distrito Metropolitano De Quito,Gualea,"1,988","1,704",-1.28
+,Pichincha,Distrito Metropolitano De Quito,Guangopolo,"3,039","4,336",2.96
+,Pichincha,Distrito Metropolitano De Quito,Guayllabamba,"16,013","20,584",2.09
+,Pichincha,Distrito Metropolitano De Quito,La Merced,"8,332","11,438",2.64
+,Pichincha,Distrito Metropolitano De Quito,Llano Chico,"10,698","15,113",2.88
+,Pichincha,Distrito Metropolitano De Quito,Lloa,"1,536","1,959",2.03
+,Pichincha,Distrito Metropolitano De Quito,Nanegal,"2,582","2,959",1.14
+,Pichincha,Distrito Metropolitano De Quito,Nanegalito,"2,973","2,776",-0.57
+,Pichincha,Distrito Metropolitano De Quito,Nayón,"15,579","22,065",2.90
+,Pichincha,Distrito Metropolitano De Quito,Nono,"1,625","2,938",4.93
+,Pichincha,Distrito Metropolitano De Quito,Pacto,"4,749","3,898",-1.64
+,Pichincha,Distrito Metropolitano De Quito,Perucho,766,704,-0.70
+,Pichincha,Distrito Metropolitano De Quito,Pifo,"16,589","23,202",2.79
+,Pichincha,Distrito Metropolitano De Quito,Píntag,"17,900","23,240",2.17
+,Pichincha,Distrito Metropolitano De Quito,Pomasqui,"28,752","36,883",2.07
+,Pichincha,Distrito Metropolitano De Quito,Puéllaro,"5,450","5,155",-0.46
+,Pichincha,Distrito Metropolitano De Quito,Puembo,"13,526","17,780",2.28
+,Pichincha,Distrito Metropolitano De Quito,San Antonio,"32,101","49,984",3.69
+,Pichincha,Distrito Metropolitano De Quito,San José De Minas,"6,916","5,589",-1.77
+,Pichincha,Distrito Metropolitano De Quito,Tababela,"2,808","3,851",2.63
+,Pichincha,Distrito Metropolitano De Quito,Tumbaco,"49,866","79,109",3.84
+,Pichincha,Distrito Metropolitano De Quito,Yaruquí,"17,840","26,564",3.32
+,Pichincha,Distrito Metropolitano De Quito,Zámbiza,"4,015","6,160",3.57
+,Pichincha,Cayambe,Cayambe,"50,624","49,308",-0.22
+,Pichincha,Cayambe,Ascázubi,"4,980","7,851",3.79
+,Pichincha,Cayambe,Cangahua,"16,172","18,037",0.91
+,Pichincha,Cayambe,Olmedo,"6,688","6,515",-0.22
+,Pichincha,Cayambe,Otón,"2,758","3,167",1.15
+,Pichincha,Cayambe,Santa Rosa De Cuzubamba,"4,177","5,996",3.01
+,Pichincha,Cayambe,San José De Ayora,,"14,393",
+,Pichincha,Mejía,Machachi,"27,986","32,814",1.33
+,Pichincha,Mejía,Aloag,"9,185","10,319",0.97
+,Pichincha,Mejía,Aloasí,"9,581","12,530",2.24
+,Pichincha,Mejía,Cutuglahua,"16,452","25,422",3.62
+,Pichincha,Mejía,El Chaupi,"1,438","1,425",-0.08
+,Pichincha,Mejía,Manuel Cornejo Astorga,"3,446","3,341",-0.26
+,Pichincha,Mejía,Tambillo,"8,235","9,851",1.49
+,Pichincha,Mejía,Uyumbicho,"4,616","6,192",2.45
+,Pichincha,Pedro Moncayo,Tabacundo,"16,405","21,157",2.12
+,Pichincha,Pedro Moncayo,La Esperanza,"3,926","4,701",1.50
+,Pichincha,Pedro Moncayo,Malchinguí,"4,571","6,307",2.68
+,Pichincha,Pedro Moncayo,Tocachi,"1,947","2,028",0.34
+,Pichincha,Pedro Moncayo,Tupigachi,"6,104","6,290",0.25
+,Pichincha,Rumiñahui,Sangolquí,"80,835","102,863",2.01
+,Pichincha,Rumiñahui,Cotogchoa,"3,851","4,384",1.08
+,Pichincha,Rumiñahui,Rumipamba,784,657,-1.47
+,Pichincha,San Miguel De Los Bancos,San Miguel De Los Bancos,"14,094","10,708",-2.29
+,Pichincha,San Miguel De Los Bancos,Mindo,"3,648","2,953",-1.76
+,Pichincha,Pedro Vicente Maldonado,Pedro Vicente Maldonado,"12,816","15,475",1.57
+,Pichincha,Puerto Quito,Puerto Quito,"20,295","25,067",1.76
+,Tungurahua,Ambato,Ambato,"178,713","188,338",0.44
+,Tungurahua,Ambato,Ambatillo,"5,267","5,281",0.02
+,Tungurahua,Ambato,Atahualpa,"10,210","14,231",2.77
+,Tungurahua,Ambato,Augusto N. Martínez,"8,144","8,474",0.33
+,Tungurahua,Ambato,Constantino Fernández,"2,529","3,931",3.67
+,Tungurahua,Ambato,Huachi Grande,"10,374","15,782",3.49
+,Tungurahua,Ambato,Izamba,"14,484","22,218",3.56
+,Tungurahua,Ambato,Juan Benigno Vela,"7,441","7,523",0.09
+,Tungurahua,Ambato,Montalvo,"3,881","6,193",3.89
+,Tungurahua,Ambato,Pasa,"6,458","4,238",-3.51
+,Tungurahua,Ambato,Picaihua,"8,390","10,382",1.77
+,Tungurahua,Ambato,Pilagüín,"12,041","11,450",-0.42
+,Tungurahua,Ambato,Quisapincha,"12,950","10,777",-1.53
+,Tungurahua,Ambato,San Bartolomé De Pinllo,"8,992","10,240",1.08
+,Tungurahua,Ambato,San Fernando,"2,488","2,035",-1.67
+,Tungurahua,Ambato,Santa Rosa,"20,931","28,210",2.49
+,Tungurahua,Ambato,Totoras,"6,879","9,674",2.84
+,Tungurahua,Ambato,Cunchibamba,"4,467","5,546",1.80
+,Tungurahua,Ambato,Unamuncho,"4,657","6,141",2.30
+,Tungurahua,Baños De Agua Santa,Baños,"14,455","16,121",0.91
+,Tungurahua,Baños De Agua Santa,Lligua,291,343,1.37
+,Tungurahua,Baños De Agua Santa,Río Negro,"1,220","1,274",0.36
+,Tungurahua,Baños De Agua Santa,Río Verde,"1,298","1,337",0.25
+,Tungurahua,Baños De Agua Santa,Ulba,"2,376","2,833",1.47
+,Tungurahua,Cevallos,Cevallos,"8,131","10,433",2.08
+,Tungurahua,Mocha,Mocha,"5,468","5,820",0.52
+,Tungurahua,Mocha,Pinguilí,"1,248","1,440",1.19
+,Tungurahua,Patate,Patate,"8,025","8,743",0.71
+,Tungurahua,Patate,El Triunfo,"1,550","1,360",-1.09
+,Tungurahua,Patate,Los Andes,"1,367","1,385",0.11
+,Tungurahua,Patate,Sucre,"2,342","2,391",0.17
+,Tungurahua,Quero,Quero,"14,209","14,431",0.13
+,Tungurahua,Quero,Rumipamba,"2,908","3,007",0.28
+,Tungurahua,Quero,Yanayacu-Mochapata,"1,909","1,646",-1.23
+,Tungurahua,San Pedro De Pelileo,Pelileo,"24,665","28,073",1.08
+,Tungurahua,San Pedro De Pelileo,Benítez,"2,189","2,626",1.52
+,Tungurahua,San Pedro De Pelileo,Bolívar,"2,666","2,925",0.77
+,Tungurahua,San Pedro De Pelileo,Cotaló,"1,837","2,186",1.45
+,Tungurahua,San Pedro De Pelileo,Chiquicha,"2,427","2,844",1.32
+,Tungurahua,San Pedro De Pelileo,El Rosario,"2,613","2,675",0.20
+,Tungurahua,San Pedro De Pelileo,García Moreno,"6,343","7,836",1.76
+,Tungurahua,San Pedro De Pelileo,Guambaló,"7,819","8,444",0.64
+,Tungurahua,San Pedro De Pelileo,Salasaca,"5,844","6,288",0.61
+,Tungurahua,Santiago De Píllaro,Píllaro,"13,405","16,012",1.48
+,Tungurahua,Santiago De Píllaro,Baquerizo Moreno,283,239,-1.41
+,Tungurahua,Santiago De Píllaro,Emilio María Terán,"1,493","1,531",0.21
+,Tungurahua,Santiago De Píllaro,Marcos Espinel,"2,312","2,266",-0.17
+,Tungurahua,Santiago De Píllaro,Presidente Urbina,"2,790","3,265",1.31
+,Tungurahua,Santiago De Píllaro,San Andrés,"11,240","12,231",0.70
+,Tungurahua,Santiago De Píllaro,San José De Poaló,"1,863","1,807",-0.25
+,Tungurahua,Santiago De Píllaro,San Miguelito,"4,951","5,146",0.32
+,Tungurahua,Tisaleo,Tisaleo,"10,801","12,676",1.33
+,Tungurahua,Tisaleo,Quinchicoto,"1,287","1,234",-0.35
+,Zamora Chinchipe,Zamora,Zamora,"13,236","17,950",2.54
+,Zamora Chinchipe,Zamora,Cumbaratza,"4,354","3,617",-1.54
+,Zamora Chinchipe,Zamora,Guadalupe,"2,851","3,477",1.65
+,Zamora Chinchipe,Zamora,Imbana,"1,099",874,-1.91
+,Zamora Chinchipe,Zamora,Sabanilla,578,621,0.60
+,Zamora Chinchipe,Zamora,Timbara,"1,004","1,705",4.41
+,Zamora Chinchipe,Zamora,San Carlos De Las Minas,"2,055","1,942",-0.47
+,Zamora Chinchipe,Chinchipe,Zumba,"6,787","7,984",1.35
+,Zamora Chinchipe,Chinchipe,Chito,"1,217","1,499",1.74
+,Zamora Chinchipe,Chinchipe,El Chorro,221,152,-3.12
+,Zamora Chinchipe,Chinchipe,La Chonta,260,241,-0.63
+,Zamora Chinchipe,Chinchipe,Pucapamba,119,104,-1.12
+,Zamora Chinchipe,Chinchipe,San Andrés,388,357,-0.69
+,Zamora Chinchipe,Nangaritza,Guayzimi,"2,557","3,158",1.76
+,Zamora Chinchipe,Nangaritza,Zurmi,"1,991","1,915",-0.32
+,Zamora Chinchipe,Nangaritza,Nuevo Paraíso,576,801,2.75
+,Zamora Chinchipe,Nangaritza,Nankais,,555,
+,Zamora Chinchipe,Yacuambi,28 De Mayo,"3,140","2,979",-0.44
+,Zamora Chinchipe,Yacuambi,La Paz,"2,018","2,230",0.83
+,Zamora Chinchipe,Yacuambi,Tutupali,675,"1,182",4.67
+,Zamora Chinchipe,Yantzaza,Yantzaza,"12,392","16,375",2.32
+,Zamora Chinchipe,Yantzaza,Chicaña,"2,626","2,863",0.72
+,Zamora Chinchipe,Yantzaza,Los Encuentros,"3,497","4,132",1.39
+,Zamora Chinchipe,El Pangui,El Pangui,"5,031","8,336",4.21
+,Zamora Chinchipe,El Pangui,El Guisme,"1,595","1,621",0.13
+,Zamora Chinchipe,El Pangui,Pachicutza,"1,264","1,724",2.59
+,Zamora Chinchipe,El Pangui,Tundayme,676,"1,087",3.96
+,Zamora Chinchipe,Centinela Del Cóndor,Zumbi,"6,431","5,192",-1.78
+,Zamora Chinchipe,Centinela Del Cóndor,Triunfo Dorado,,986,
+,Zamora Chinchipe,Centinela Del Cóndor,Panguintza,,"1,704",
+,Zamora Chinchipe,Palanda,Palanda,"3,711","3,999",0.62
+,Zamora Chinchipe,Palanda,El Porvenir Del Carmen,"1,456","1,558",0.56
+,Zamora Chinchipe,Palanda,San Francisco Del Vergel,"1,309","1,603",1.69
+,Zamora Chinchipe,Palanda,Valladolid,"1,219","1,258",0.26
+,Zamora Chinchipe,Palanda,La Canela,346,455,2.28
+,Zamora Chinchipe,Paquisha,Paquisha,"1,482","2,253",3.49
+,Zamora Chinchipe,Paquisha,Bellavista,301,440,3.16
+,Zamora Chinchipe,Paquisha,Nuevo Quito,"1,945","2,044",0.41
+,Galápagos,San Cristóbal,Puerto Baquerizo Moreno,"6,382","7,290",1.11
+,Galápagos,San Cristóbal,El Progreso,657,865,2.29
+,Galápagos,San Cristóbal,Isla Santa María Floreana,126,145,1.17
+,Galápagos,Isabela,Puerto Villamil,"2,036","2,755",2.52
+,Galápagos,Isabela,Tomás De Berlanga,166,295,4.79
+,Galápagos,Santa Cruz,Puerto Ayora,"11,338","12,737",0.97
+,Galápagos,Santa Cruz,Bella Vista,"2,406","3,933",4.09
+,Galápagos,Santa Cruz,Santa Rosa,519,563,0.68
+,Sucumbíos,Lago Agrio,Nueva Loja,"58,513","65,791",0.98
+,Sucumbíos,Lago Agrio,Dureno,"2,749","3,149",1.13
+,Sucumbíos,Lago Agrio,General Farfán,"6,537","6,681",0.18
+,Sucumbíos,Lago Agrio,El Eno,"6,674","6,918",0.30
+,Sucumbíos,Lago Agrio,Pacayacu,"8,003","8,428",0.43
+,Sucumbíos,Lago Agrio,Jambelí,"3,133","3,478",0.87
+,Sucumbíos,Lago Agrio,Santa Cecilia,"6,238","8,669",2.74
+,Sucumbíos,Lago Agrio,10 De Agosto,,"1,930",
+,Sucumbíos,Gonzalo Pizarro,Lumbaquí,"3,238","4,178",2.12
+,Sucumbíos,Gonzalo Pizarro,El Reventador,"1,504","1,068",-2.85
+,Sucumbíos,Gonzalo Pizarro,Gonzalo Pizarro,"2,822","3,545",1.90
+,Sucumbíos,Gonzalo Pizarro,Puerto Libre,913,"1,565",4.49
+,Sucumbíos,Putumayo,Puerto El Carmen De Putumayo,"3,433","3,090",-0.88
+,Sucumbíos,Putumayo,Palma Roja,"3,818","1,085",-10.48
+,Sucumbíos,Putumayo,Puerto Bolívar,170,76,-6.71
+,Sucumbíos,Putumayo,Puerto Rodríguez,469,295,-3.86
+,Sucumbíos,Putumayo,Santa Elena,"1,971","1,803",-0.74
+,Sucumbíos,Putumayo,Sansahuari,,"2,669",
+,Sucumbíos,Shushufindi,Shushufindi,"26,277","30,747",1.31
+,Sucumbíos,Shushufindi,Limoncocha,"5,957","6,857",1.17
+,Sucumbíos,Shushufindi,Pañacocha,848,746,-1.07
+,Sucumbíos,Shushufindi,San Roque,"3,130","4,483",2.99
+,Sucumbíos,Shushufindi,San Pedro De Los Cofánes,"3,304","3,644",0.82
+,Sucumbíos,Shushufindi,Siete De Julio,"3,714","4,349",1.31
+,Sucumbíos,Sucumbíos,La Bonita,832,935,0.97
+,Sucumbíos,Sucumbíos,El Playón De San Francisco,"1,388","1,248",-0.89
+,Sucumbíos,Sucumbíos,La Sofía,104,122,1.33
+,Sucumbíos,Sucumbíos,Rosa Florida,382,270,-2.89
+,Sucumbíos,Sucumbíos,Santa Bárbara,684,599,-1.11
+,Sucumbíos,Cascales,El Dorado De Cascales,"7,482","3,801",-5.64
+,Sucumbíos,Cascales,Santa Rosa De Sucumbíos,783,603,-2.18
+,Sucumbíos,Cascales,Sevilla,"2,708","3,106",1.14
+,Sucumbíos,Cascales,Nueva Troncal,,"4,234",
+,Sucumbíos,Cuyabeno,Tarapoa,"4,877","6,739",2.69
+,Sucumbíos,Cuyabeno,Cuyabeno,400,435,0.70
+,Sucumbíos,Cuyabeno,Aguas Negras,"1,426","1,678",1.36
+,Orellana,Francisco De Orellana,El Coca (Puerto Francisco De Orellana),"45,225","59,104",2.23
+,Orellana,Francisco De Orellana,Dayuma,"6,050","7,253",1.51
+,Orellana,Francisco De Orellana,Taracoa,"2,542","3,107",1.67
+,Orellana,Francisco De Orellana,Alejandro Labaka,"1,231","1,559",1.97
+,Orellana,Francisco De Orellana,El Dorado,"1,639","3,279",5.78
+,Orellana,Francisco De Orellana,El Edén,873,"1,246",2.96
+,Orellana,Francisco De Orellana,García Moreno,"1,098","1,491",2.55
+,Orellana,Francisco De Orellana,Inés Arango,"2,893","3,661",1.96
+,Orellana,Francisco De Orellana,La Belleza,"3,990","5,168",2.15
+,Orellana,Francisco De Orellana,Nuevo Paraíso,"2,661","3,511",2.31
+,Orellana,Francisco De Orellana,San José De Guayusa,"1,941","3,255",4.31
+,Orellana,Francisco De Orellana,San Luis De Armenia,"1,962","2,496",2.01
+,Orellana,Aguarico,Nuevo Rocafuerte,"2,639","3,662",2.73
+,Orellana,Aguarico,Capitán Augusto Rivadeneyra,699,"1,142",4.09
+,Orellana,Aguarico,Cononaco,512,708,2.70
+,Orellana,Aguarico,Santa María De Huiririma,716,938,2.25
+,Orellana,Aguarico,Yasuní,274,422,3.60
+,Orellana,La Joya De Los Sachas,La Joya De Los Sachas,"17,710","25,989",3.19
+,Orellana,La Joya De Los Sachas,Enokanqui,"2,356","3,232",2.63
+,Orellana,La Joya De Los Sachas,Pompeya,"1,206","1,661",2.67
+,Orellana,La Joya De Los Sachas,San Carlos,"2,769","4,243",3.55
+,Orellana,La Joya De Los Sachas,San Sebastián Del Coca,"3,079","5,280",4.49
+,Orellana,La Joya De Los Sachas,Lago San Pedro,"1,867","2,287",1.69
+,Orellana,La Joya De Los Sachas,Rumipamba,"1,898","2,144",1.02
+,Orellana,La Joya De Los Sachas,Tres De Noviembre,"2,998","3,945",2.29
+,Orellana,La Joya De Los Sachas,Unión Milagreña,"2,847","3,663",2.10
+,Orellana,Loreto,Loreto,"4,357","7,677",4.72
+,Orellana,Loreto,Ávila,"4,358","5,863",2.47
+,Orellana,Loreto,Puerto Murialdo,"3,163","3,934",1.82
+,Orellana,Loreto,San José De Payamino,"3,121","3,576",1.13
+,Orellana,Loreto,San José De Dahuano,"4,968","5,461",0.79
+,Orellana,Loreto,San Vicente De Huaticocha,"1,047","1,209",1.20
+,Santo Domingo De Los Tsáchilas,Santo Domingo,Santo Domingo De Los Colorados,"305,130","373,321",1.68
+,Santo Domingo De Los Tsáchilas,Santo Domingo,Alluriquín,"9,716","8,607",-1.01
+,Santo Domingo De Los Tsáchilas,Santo Domingo,Puerto Limón,"9,339","11,630",1.83
+,Santo Domingo De Los Tsáchilas,Santo Domingo,Luz De América,"10,877","11,504",0.47
+,Santo Domingo De Los Tsáchilas,Santo Domingo,San Jacinto Del Búa,"11,695","13,624",1.27
+,Santo Domingo De Los Tsáchilas,Santo Domingo,Valle Hermoso,"9,246","9,865",0.54
+,Santo Domingo De Los Tsáchilas,Santo Domingo,El Esfuerzo,"5,744","5,973",0.33
+,Santo Domingo De Los Tsáchilas,Santo Domingo,Santa María Del Toachi,"5,576","7,059",1.96
+,Santo Domingo De Los Tsáchilas,La Concordia,La Concordia,"42,705","37,178",-1.15
+,Santo Domingo De Los Tsáchilas,La Concordia,Monterrey,,"7,386",
+,Santo Domingo De Los Tsáchilas,La Concordia,La Villegas,,"4,529",
+,Santo Domingo De Los Tsáchilas,La Concordia,Plan Piloto,,"2,293",
+,Santa Elena,Santa Elena,Santa Elena,"53,416","72,598",2.56
+,Santa Elena,Santa Elena,Atahualpa,"3,506","4,004",1.11
+,Santa Elena,Santa Elena,Colonche,"31,052","40,058",2.12
+,Santa Elena,Santa Elena,Chanduy,"16,150","20,558",2.01
+,Santa Elena,Santa Elena,Manglaralto,"29,059","37,167",2.05
+,Santa Elena,Santa Elena,Simón Bolívar,"3,282","4,384",2.41
+,Santa Elena,Santa Elena,San José De Ancón,"6,845","7,918",1.21
+,Santa Elena,La Libertad,La Libertad,"95,193","112,247",1.37
+,Santa Elena,Salinas,Salinas,"34,531","35,081",0.13
+,Santa Elena,Salinas,Anconcito,"11,817","15,052",2.02
+,Santa Elena,Salinas,José Luis Tamayo,"21,687","36,668",4.37
+,,,,,,
+,"Nota 1. En el censo 2022, las viviendas ocupadas con personas ausentes fueron el insumo base para calcular la población no censada. Estas viviendas se incorporan a la categoría de viviendas particulares ocupadas al calcular indicadores y generar tabulados en los que esta condición de ocupación forme parte del cálculo.",,,,,
+,"Nota 2. Para fines de comparabilidad intercensal, la población de 2010 corresponde a aquella que declaró residir habitualmente en Ecuador. Es decir, se excluye a personas censadas que declararon residir en el exterior (turistas u otra condición de permanencia temporal en el país).",,,,,

@@ -1,0 +1,236 @@
+,,,,,
+,,,,,
+,Tabla N°:,5.1 ,,,
+,Nombre de la tabla:,"Tasa de crecimiento promedio anual 2010-2022, según cantón de residencia",,,
+,Fuente:,VIII Censo de Población y VII de Vivienda ,,,
+,Elaboración:,Instituto Nacional de Estadística y Censos (INEC) - Componente de Metodología y Análisis – CPV 2022 ,,,
+,,,,,
+,,,,,
+Índice,,,,,
+,Provincia y cantón de residencia,,Población 2010,Población 2022,Tasa de crecimiento promedio anual 2010_2022
+,,,,,
+,Total Nacional,Total Nacional,"14,459,077","16,938,986",1.32
+,Azuay,Cuenca,"507,687","596,101",1.34
+,Azuay,Girón,"12,422","12,182",-0.16
+,Azuay,Gualaceo,"42,332","43,188",0.17
+,Azuay,Nabón,"15,484","14,776",-0.39
+,Azuay,Paute,"25,252","26,782",0.49
+,Azuay,Pucará,"10,057","9,693",-0.31
+,Azuay,San Fernando,"3,971","3,738",-0.50
+,Azuay,Santa Isabel,"22,715","20,753",-0.75
+,Azuay,Sígsig,"26,401","24,992",-0.46
+,Azuay,Oña,"3,546","3,422",-0.30
+,Azuay,Chordeleg,"12,508","12,197",-0.21
+,Azuay,El Pan,"2,979","2,776",-0.59
+,Azuay,Sevilla De Oro,"5,593","4,613",-1.60
+,Azuay,Guachapala,"3,353","3,586",0.56
+,Azuay,Camilo Ponce Enríquez,"16,466","22,810",2.71
+,Bolívar,Guaranda,"91,767","98,130",0.56
+,Bolívar,Chillanes,"17,431","19,802",1.06
+,Bolívar,Chimbo,"15,818","15,524",-0.16
+,Bolívar,Echeandía,"12,293","14,654",1.46
+,Bolívar,San Miguel,"27,238","28,349",0.33
+,Bolívar,Caluma,"13,157","15,607",1.42
+,Bolívar,Las Naves,"6,038","7,012",1.25
+,Cañar,Azogues,"69,948","74,515",0.53
+,Cañar,Biblián,"20,787","18,852",-0.81
+,Cañar,Cañar,"59,289","52,150",-1.07
+,Cañar,La Troncal,"53,958","62,103",1.17
+,Cañar,El Tambo,"9,416","9,285",-0.12
+,Cañar,Déleg,"6,011","6,046",0.05
+,Cañar,Suscal,"5,024","4,627",-0.69
+,Carchi,Tulcán,"86,710","92,375",0.53
+,Carchi,Bolívar,"14,209","15,677",0.82
+,Carchi,Espejo,"13,265","14,522",0.75
+,Carchi,Mira,"12,146","12,727",0.39
+,Carchi,Montúfar,"30,234","29,590",-0.18
+,Carchi,San Pedro De Huaca,"7,598","7,937",0.36
+,Cotopaxi,Latacunga,"170,192","217,261",2.03
+,Cotopaxi,La Maná,"42,109","53,793",2.04
+,Cotopaxi,Pangua,"21,936","21,867",-0.03
+,Cotopaxi,Pujilí,"68,575","66,980",-0.20
+,Cotopaxi,Salcedo,"58,024","67,493",1.26
+,Cotopaxi,Saquisilí,"24,848","24,356",-0.17
+,Cotopaxi,Sigchos,"22,029","18,460",-1.47
+,Chimborazo,Riobamba,"226,769","260,882",1.17
+,Chimborazo,Alausí,"44,048","37,275",-1.39
+,Chimborazo,Colta,"44,424","30,468",-3.14
+,Chimborazo,Chambo,"11,894","13,431",1.01
+,Chimborazo,Chunchi,"12,701","10,635",-1.48
+,Chimborazo,Guamote,"45,092","35,769",-1.93
+,Chimborazo,Guano,"42,804","48,327",1.01
+,Chimborazo,Pallatanga,"11,365","11,796",0.31
+,Chimborazo,Penipe,"6,653","6,748",0.12
+,Chimborazo,Cumandá,"12,810","16,602",2.16
+,El Oro,Machala,"245,128","306,309",1.86
+,El Oro,Arenillas,"26,354","32,366",1.71
+,El Oro,Atahualpa,"5,760","6,112",0.49
+,El Oro,Balsas,"6,869","7,875",1.14
+,El Oro,Chilla,"2,523","2,251",-0.95
+,El Oro,El Guabo,"49,872","59,536",1.48
+,El Oro,Huaquillas,"47,936","56,303",1.34
+,El Oro,Marcabelí,"5,450","6,870",1.93
+,El Oro,Pasaje,"72,466","83,597",1.19
+,El Oro,Piñas,"25,811","29,406",1.09
+,El Oro,Portovelo,"12,097","13,556",0.95
+,El Oro,Santa Rosa,"68,861","80,299",1.28
+,El Oro,Zaruma,"24,112","24,374",0.09
+,El Oro,Las Lajas,"4,752","5,738",1.57
+,Esmeraldas,Esmeraldas,"189,834","211,848",0.91
+,Esmeraldas,Eloy Alfaro,"40,074","46,305",1.20
+,Esmeraldas,Muisne,"28,486","36,426",2.05
+,Esmeraldas,Quinindé,"122,262","126,841",0.31
+,Esmeraldas,San Lorenzo,"41,808","48,391",1.22
+,Esmeraldas,Atacames,"40,875","51,204",1.88
+,Esmeraldas,Rioverde,"27,011","32,885",1.64
+,Guayas,Guayaquil,"2,350,278","2,746,403",1.30
+,Guayas,Alfredo Baquerizo Moreno (Juján),"24,887","25,526",0.21
+,Guayas,Balao,"20,266","25,655",1.96
+,Guayas,Balzar,"53,865","57,829",0.59
+,Guayas,Colimes,"23,203","26,251",1.03
+,Guayas,Daule,"119,719","222,446",5.16
+,Guayas,Durán,"233,111","303,910",2.21
+,Guayas,El Empalme,"74,421","79,767",0.58
+,Guayas,El Triunfo,"50,732","60,541",1.47
+,Guayas,Milagro,"166,775","195,943",1.34
+,Guayas,Naranjal,"68,487","83,691",1.67
+,Guayas,Naranjito,"37,078","44,169",1.46
+,Guayas,Palestina,"15,977","18,019",1.00
+,Guayas,Pedro Carbo,"43,355","52,177",1.54
+,Guayas,Samborondón,"66,845","98,540",3.23
+,Guayas,Santa Lucía,"38,850","43,700",0.98
+,Guayas,Salitre,"57,681","61,060",0.47
+,Guayas,San Jacinto De Yaguachi,"60,606","72,699",1.52
+,Guayas,Playas,"41,446","58,768",2.91
+,Guayas,Simón Bolívar,"25,310","29,427",1.26
+,Guayas,Coronel Marcelino Maridueña,"11,973","13,183",0.80
+,Guayas,Lomas De Sargentillo,"18,328","22,254",1.62
+,Guayas,Nobol,"19,476","23,850",1.69
+,Guayas,General  Antonio Elizalde,"10,618","11,810",0.89
+,Guayas,Isidro Ayora,"10,811","14,305",2.33
+,Imbabura,Ibarra,"180,845","217,469",1.54
+,Imbabura,Antonio Ante,"43,346","53,771",1.80
+,Imbabura,Cotacachi,"44,806","53,001",1.40
+,Imbabura,Otavalo,"104,836","114,303",0.72
+,Imbabura,Pimampiro,"12,907","13,366",0.29
+,Imbabura,San Miguel De Urcuquí,"15,567","17,969",1.20
+,Loja,Loja,"216,118","250,028",1.21
+,Loja,Calvas,"28,272","26,042",-0.68
+,Loja,Catamayo,"30,395","35,240",1.23
+,Loja,Celica,"14,460","14,379",-0.05
+,Loja,Chaguarpamba,"7,043","6,857",-0.22
+,Loja,Espíndola,"14,969","14,119",-0.49
+,Loja,Gonzanamá,"12,759","12,247",-0.34
+,Loja,Macará,"19,062","18,215",-0.38
+,Loja,Paltas,"23,823","22,841",-0.35
+,Loja,Puyango,"15,673","16,257",0.30
+,Loja,Saraguro,"30,158","29,111",-0.29
+,Loja,Sozoranga,"7,462","6,970",-0.57
+,Loja,Zapotillo,"12,291","14,571",1.42
+,Loja,Pindal,"8,656","10,409",1.54
+,Loja,Quilanga,"4,360","3,971",-0.78
+,Loja,Olmedo,"4,841","4,164",-1.25
+,Los Ríos,Babahoyo,"154,675","178,509",1.19
+,Los Ríos,Baba,"39,670","45,296",1.10
+,Los Ríos,Montalvo,"23,992","28,354",1.39
+,Los Ríos,Puebloviejo,"36,449","40,961",0.97
+,Los Ríos,Quevedo,"173,631","206,008",1.42
+,Los Ríos,Urdaneta,"29,294","33,151",1.03
+,Los Ríos,Ventanas,"66,487","73,211",0.80
+,Los Ríos,Vinces,"71,968","80,909",0.98
+,Los Ríos,Palenque,"22,329","24,838",0.89
+,Los Ríos,Buena Fe,"62,901","74,410",1.40
+,Los Ríos,Valencia,"41,989","51,509",1.70
+,Los Ríos,Mocache,"38,430","42,026",0.75
+,Los Ríos,Quinsaloma,"16,320","19,470",1.47
+,Manabí,Portoviejo,"281,747","322,925",1.14
+,Manabí,Bolívar,"40,221","41,827",0.33
+,Manabí,Chone,"127,114","128,166",0.07
+,Manabí,El Carmen,"109,169","120,936",0.85
+,Manabí,Flavio Alfaro,"25,268","26,415",0.37
+,Manabí,Jipijapa,"71,390","78,117",0.75
+,Manabí,Junín,"19,029","22,324",1.33
+,Manabí,Manta,"225,961","271,145",1.52
+,Manabí,Montecristi,"69,042","99,937",3.08
+,Manabí,Paján,"37,497","41,879",0.92
+,Manabí,Pichincha,"30,479","30,380",-0.03
+,Manabí,Rocafuerte,"33,589","42,688",2.00
+,Manabí,Santa Ana,"47,815","51,462",0.61
+,Manabí,Sucre,"57,407","62,841",0.75
+,Manabí,Tosagua,"38,189","42,853",0.96
+,Manabí,24 De Mayo,"28,885","31,473",0.71
+,Manabí,Pedernales,"55,268","70,408",2.02
+,Manabí,Olmedo,"9,911","10,090",0.15
+,Manabí,Puerto López,"20,215","25,630",1.98
+,Manabí,Jama,"23,196","16,588",-2.79
+,Manabí,Jaramijó,"18,295","29,759",4.05
+,Manabí,San Vicente,"21,874","24,997",1.11
+,Morona Santiago,Morona,"40,975","54,935",2.44
+,Morona Santiago,Gualaquiza,"17,168","21,892",2.02
+,Morona Santiago,Limón Indanza,"9,682","9,602",-0.07
+,Morona Santiago,Palora,"6,835","11,882",4.61
+,Morona Santiago,Santiago,"9,355","9,755",0.35
+,Morona Santiago,Sucúa,"18,031","23,504",2.21
+,Morona Santiago,Huamboya,"8,484","10,830",2.03
+,Morona Santiago,San Juan Bosco,"3,886","4,372",0.98
+,Morona Santiago,Taisha,"18,518","26,700",3.05
+,Morona Santiago,Logroño,"5,876","7,484",2.01
+,Morona Santiago,Pablo Sexto,"1,760","2,267",2.11
+,Morona Santiago,Tiwintza,"7,085","9,285",2.25
+,Napo,Tena,"60,495","80,816",2.41
+,Napo,Archidona,"24,925","30,488",1.68
+,Napo,El Chaco,"7,894","9,252",1.32
+,Napo,Quijos,"5,926","6,472",0.73
+,Napo,Carlos Julio Arosemena Tola,"3,621","4,647",2.08
+,Pastaza,Pastaza,"61,845","82,754",2.43
+,Pastaza,Mera,"11,565","15,087",2.21
+,Pastaza,Santa Clara,"3,531","4,521",2.06
+,Pastaza,Arajuno,"6,537","9,553",3.16
+,Pichincha,Distrito Metropolitano De Quito,"2,242,615","2,679,722",1.48
+,Pichincha,Cayambe,"85,399","105,267",1.74
+,Pichincha,Mejía,"80,939","101,894",1.92
+,Pichincha,Pedro Moncayo,"32,953","40,483",1.71
+,Pichincha,Rumiñahui,"85,470","107,904",1.94
+,Pichincha,San Miguel De Los Bancos,"17,742","13,661",-2.18
+,Pichincha,Pedro Vicente Maldonado,"12,816","15,475",1.57
+,Pichincha,Puerto Quito,"20,295","25,067",1.76
+,Tungurahua,Ambato,"329,296","370,664",0.99
+,Tungurahua,Baños De Agua Santa,"19,640","21,908",0.91
+,Tungurahua,Cevallos,"8,131","10,433",2.08
+,Tungurahua,Mocha,"6,716","7,260",0.65
+,Tungurahua,Patate,"13,284","13,879",0.36
+,Tungurahua,Quero,"19,026","19,084",0.03
+,Tungurahua,San Pedro De Pelileo,"56,403","63,897",1.04
+,Tungurahua,Santiago De Píllaro,"38,337","42,497",0.86
+,Tungurahua,Tisaleo,"12,088","13,910",1.17
+,Zamora Chinchipe,Zamora,"25,177","30,186",1.51
+,Zamora Chinchipe,Chinchipe,"8,992","10,337",1.16
+,Zamora Chinchipe,Nangaritza,"5,124","6,429",1.89
+,Zamora Chinchipe,Yacuambi,"5,833","6,391",0.76
+,Zamora Chinchipe,Yantzaza,"18,515","23,370",1.94
+,Zamora Chinchipe,El Pangui,"8,566","12,768",3.32
+,Zamora Chinchipe,Centinela Del Cóndor,"6,431","7,882",1.69
+,Zamora Chinchipe,Palanda,"8,041","8,873",0.82
+,Zamora Chinchipe,Paquisha,"3,728","4,737",2.00
+,Galápagos,San Cristóbal,"7,165","8,300",1.22
+,Galápagos,Isabela,"2,202","3,050",2.71
+,Galápagos,Santa Cruz,"14,263","17,233",1.58
+,Sucumbíos,Lago Agrio,"91,847","105,044",1.12
+,Sucumbíos,Gonzalo Pizarro,"8,477","10,356",1.67
+,Sucumbíos,Putumayo,"9,861","9,018",-0.74
+,Sucumbíos,Shushufindi,"43,230","50,826",1.35
+,Sucumbíos,Sucumbíos,"3,390","3,174",-0.55
+,Sucumbíos,Cascales,"10,973","11,744",0.57
+,Sucumbíos,Cuyabeno,"6,703","8,852",2.32
+,Orellana,Francisco De Orellana,"72,105","95,130",2.31
+,Orellana,Aguarico,"4,840","6,872",2.92
+,Orellana,La Joya De Los Sachas,"36,730","52,444",2.97
+,Orellana,Loreto,"21,014","27,720",2.31
+,Santo Domingo De Los Tsáchilas,Santo Domingo,"367,323","441,583",1.53
+,Santo Domingo De Los Tsáchilas,La Concordia,"42,705","51,386",1.54
+,Santa Elena,Santa Elena,"143,310","186,687",2.20
+,Santa Elena,La Libertad,"95,193","112,247",1.37
+,Santa Elena,Salinas,"68,035","86,801",2.03
+,,,,,
+,"Nota 1. En el censo 2022, las viviendas ocupadas con personas ausentes fueron el insumo base para calcular la población no censada. Estas viviendas se incorporan a la categoría de viviendas particulares ocupadas al calcular indicadores y generar tabulados en los que esta condición de ocupación forme parte del cálculo.",,,,
+,"Nota 2. Para fines de comparabilidad intercensal, la población de 2010 corresponde a aquella que declaró residir habitualmente en Ecuador. Es decir, se excluye a personas censadas que declararon residir en el exterior (turistas u otra condición de permanencia temporal en el país).",,,,
